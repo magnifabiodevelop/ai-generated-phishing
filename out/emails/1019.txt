@@ -1,0 +1,28 @@
+Here is the email:
+
+Subject: Brief Meeting Request for [TOPIC]
+
+Dear [EMPLOYEE_NAME],
+
+I hope this email finds you well. As part of our ongoing efforts to support your professional development and growth within [COMPANY], I would like to schedule a brief meeting with you to discuss [TOPIC].
+
+The purpose of this meeting is to [briefly explain the topic, e.g. review your performance, update your contract, or follow up on your onboarding process]. This will be a great opportunity for us to touch base and make sure you have all the necessary information and support.
+
+I propose three alternative time slots for our meeting:
+
+* [SLOT_1] - [MEETING_LINK]
+* [SLOT_2] - [MEETING_LINK]
+* [SLOT_3] - [MEETING_LINK]
+
+Please let me know which one works best for you, or if none of these options are suitable, please suggest an alternative time. If you have any questions or concerns before the meeting, feel free to reach out to me.
+
+Looking forward to speaking with you soon!
+
+Best regards,
+
+[HR_REP_NAME]
+Human Resources Department
+[COMPANY]
+[OFFICE_LOCATION]
+
+Note: [TOPIC] should be replaced with the actual topic of the meeting (e.g. performance review, contract update, onboarding follow-up).

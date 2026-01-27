@@ -1,0 +1,25 @@
+Subject: Re: [Q] Algorithm for Regexp Subsumption
+
+[EMAIL] writes:
+
+>[EMAIL] (Martin Vorbeck) writes:
+>|> are there any algorithms out there for checking whether a regular
+>|> expression subsumes another one, ie L(E1) is a subset of L(E2)? I have a
+>|> "brute-force" solution along these lines:
+>|> 
+>|> 1. Compute equivalent finite automatas A1 (resp A2) for E1 (resp E2).
+>
+>Make sure you keep the context of your problem (whetever that might be)
+>in mind when doing this.
+
+To be sure. If you create a new DFA, L(E1) or L(E2), then the if you
+remove extra states correctly you should end up with the same DFA when
+your done if in fact L(E1) is a subset of L(E2). So in many computa-
+tional contexts, the question of whether one is a subset or not is not
+important. Put more succinctly, the regexp a|a* is going to result in
+the same DFA as a*, if done "by the book."
+
+-- 
+
+ -Richard L. Goerwitz [EMAIL]
+ sorry, no witty saying

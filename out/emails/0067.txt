@@ -1,0 +1,13 @@
+Subject: Re: [opensuse] SUSE 10.3 + ATI FireGL 5250 + Latest ATI driver = no 3D efects
+
+On Feb 9, 2008 9:24 AM, David C. Rankin wrote:
+
+> Start by posting /etc/X11/xorg.conf, /var/log/Xorg.0.log, and the
+> output of:
+>
+> (1) glxinfo; run from a terminal;
+> (2) rpm -qa | grep fglrx; also run from a console
+
+Here it is all files. I am using KDE desktop.
+
+Audrius

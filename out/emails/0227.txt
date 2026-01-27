@@ -1,0 +1,30 @@
+Subject: Re: [opensuse] Intel 3945 Wireless Problem opensuse 10.3
+
+Kai Ponte wrote:
+> On Friday 08 February 2008 09:46:55 pm Joe Sloan wrote:
+>> Chuck Stuettgen wrote:
+>>> The fix is to in YAST, select Configure on the Wireless Card.
+>>> Select the Hardware Tab, then change the Kernel Module in the
+>>> Module Name Drop down list from the ipw3945 to the iwl3945. Save
+>>> the settings and exit out of YAST. Reboot the laptop.
+>>> 
+>>> If the iwl3945 kernel module is not in the list install it first
+>>> then reboot and change.
+> 
+> That worked great! Thanks.
+>> Ack, that is a good fix - except for the reboots; absolutely no
+>> need for any of that, just rmmod the ipw3945 and you're good to go.
+>> 
+> 
+> I would have no idea how to do that.
+> 
+> Joe - I'm (obviously) not making it to SCALE today.
+> 
+> I'll see if I get there tomorrow.
+
+Ah, too bad - I picked up a few things of interest, but it mostly struck
+me as small and disorganized. Maybe I've been spoiled by the grand
+extravaganza that is Linux World Expo. I'm looking forward to that, 6
+months from now in San Francisco.
+
+Joe

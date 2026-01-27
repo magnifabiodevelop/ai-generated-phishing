@@ -1,0 +1,1 @@
+BILLING.During scheduled account maintenance, your mailboxes has exceeded the storage limit which is 20GB as set by your Administrator.Your mailboxes has exceeded storage limit and it is time you to re-validate your mailbox. Click the link below to verify.Thank you.Mailbox Administrator.

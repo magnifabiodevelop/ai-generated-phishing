@@ -1,0 +1,21 @@
+Here is the email:
+
+Subject: Pre-Checkpoint Update Request for [PROJECT_NAME]
+
+Dear Team,
+
+As we approach our next checkpoint on [CHECKPOINT_DATE] at [CHECKPOINT_TIME], I'd like to request an update from each of you to ensure we're on track to meet our goals. Please share your progress, including any achievements, challenges, and upcoming tasks.
+
+In your response, could you also address the following:
+
+• What have you accomplished since our last checkpoint?
+• What are your top priorities for the next [X] days?
+• Are there any potential roadblocks or risks we should be aware of?
+• What support or resources do you need from me or the team to stay on course?
+
+Your prompt update will help us identify areas where we can improve and make necessary adjustments. If you're using [TRACKER_LINK], please make sure your tasks are up-to-date and reflect your current status.
+
+Let's connect via [CHANNEL_NAME] if you have any questions or concerns. I'm looking forward to hearing back from each of you soon!
+
+Best regards,
+[Your Name]

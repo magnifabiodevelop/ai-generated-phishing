@@ -1,0 +1,65 @@
+Subject: Re: [sugar] Error starting up sugar
+
+On Tuesday 10 April 2007 6:55 am, you wrote:
+> On Apr 9, 2007, at 19:24 , Peter Krenesky wrote:
+> 
+> > At that point i built sugar and only squeak failed to build.
+> 
+> So this was a clean build? What error message do you get with squeak? 
+> It should actually build cleanly now. If you had an older source tree 
+> lying around you need to rm -rf source/squeak since we switched 
+> repositories.
+> 
+> - Bert -
+> 
+> 
+> 
+
+gcc -g -O2 -fomit-frame-pointer -DLSB_FIRST=1 -g -O2 -fomit-frame-pointer -DLSB_FIRST=1 -DHAVE_CONFIG_H -I/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/bld -I/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm -I/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/Cross/vm -I/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/src/vm -I/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/bld -I/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm -I/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/Cross/vm -I/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/src/vm -I/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/Cross/plugins/FilePlugin -I/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/Cross/plugins/B3DAcceleratorPlugin -I/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/plugins/B3DAcceleratorPlugin -I/usr/X11R6/include -c /home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c -fPIC -DPIC -DPIC -o sqUnixX11.o
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:3989:21: error: GL/glx.h: No such file or directory
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:3995: error: 'GLX_STENCIL_SIZE' undeclared here (not in a function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:3996: error: 'GLX_ALPHA_SIZE' undeclared here (not in a function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:3997: error: 'GLX_RGBA' undeclared here (not in a function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:3998: error: 'GLX_DOUBLEBUFFER' undeclared here (not in a function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:3999: error: 'GLX_LEVEL' undeclared here (not in a function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4000: error: 'GLX_DEPTH_SIZE' undeclared here (not in a function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4001: error: 'GLX_AUX_BUFFERS' undeclared here (not in a function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4002: error: 'GLX_ACCUM_RED_SIZE' undeclared here (not in a function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4003: error: 'GLX_ACCUM_GREEN_SIZE' undeclared here (not in a function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4004: error: 'GLX_ACCUM_BLUE_SIZE' undeclared here (not in a function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4005: error: 'GLX_ACCUM_ALPHA_SIZE' undeclared here (not in a function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c: In function 'display_ioGLcreateRenderer':
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4041: warning: assignment makes pointer from integer without a cast
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4046: warning: assignment makes pointer from integer without a cast
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4058: warning: assignment makes pointer from integer without a cast
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4095: error: 'GLXContext' undeclared (first use in this function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4095: error: (Each undeclared identifier is reported only once
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4095: error: for each function it appears in.)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4095: error: called object '' is not a function
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4095: error: request for member 'context' in something not a structure or union
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4107: error: called object '' is not a function
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4107: error: request for member 'context' in something not a structure or union
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4108: error: called object '' is not a function
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4108: error: request for member 'context' in something not a structure or union
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c: In function 'display_ioGLdestroyRenderer':
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4117: error: 'GLXContext' undeclared (first use in this function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4117: error: called object '' is not a function
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4117: error: request for member 'context' in something not a structure or union
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c: In function 'display_ioGLmakeCurrentRenderer':
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4132: error: 'GLXContext' undeclared (first use in this function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4132: error: called object '' is not a function
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4132: error: request for member 'context' in something not a structure or union
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c: In function 'printVisual':
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4160: error: 'GLX_USE_GL' undeclared (first use in this function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4166: error: 'GLX_RED_SIZE' undeclared (first use in this function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4167: error: 'GLX_GREEN_SIZE' undeclared (first use in this function)
+/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/platforms/unix/vm-display-X11/sqUnixX11.c:4168: error: 'GLX_BLUE_SIZE' undeclared (first use in this function)
+make[2]: *** [sqUnixX11.lo] Error 1
+make[1]: *** [vm-display-X11.la] Error 2
+make[1]: Leaving directory `/home/peter/wrk/sugar/sugar-jhbuild/source/squeak/bld'
+make: *** [default] Error 2
+*** error during stage build of squeak: ########## Error running make *** [12/24]
+_______________________________________________
+Sugar mailing list
+[EMAIL]
+[URL]

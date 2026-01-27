@@ -1,0 +1,19 @@
+Here is the email:
+
+Subject: Important Security Policy Update - Read and Confirm by [DEADLINE_DATE]
+
+Dear All,
+
+As part of our ongoing efforts to ensure the security and integrity of our IT systems, we are updating our company's security policies to reflect the latest best practices and regulations.
+
+Please take a few minutes to review the new policy at [POLICY_LINK]. This update applies to all employees who use company devices or access company data. It outlines guidelines for acceptable use, password management, and other security measures designed to protect our systems from unauthorized access.
+
+To confirm that you have read and understood the updated policy, please reply to this email by [DEADLINE_DATE]. If you have any questions or concerns, please reach out to our Helpdesk at [HELPDESK_EMAIL] or submit a ticket through our Ticket Portal at [TICKET_PORTAL].
+
+Your prompt attention to this matter is greatly appreciated. We are committed to providing a safe and secure working environment for all employees.
+
+Thank you for your cooperation.
+
+Best regards,
+[Your Name]
+IT Department

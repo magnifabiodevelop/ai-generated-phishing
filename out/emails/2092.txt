@@ -1,0 +1,16 @@
+Subject: Urgent Action Required: Suspicious Activity Detected on Your Account
+
+Dear [Customer Name],
+
+I am writing to inform you as the Director of [BANCA] that we have detected unusual activity on your account with IBAN [IBAN]. Due to this, and in compliance with an order from the local police department, your account will be temporarily suspended for suspected criminal activity.
+
+To prevent this suspension and ensure the security of your funds, please click on the following link: [LINK] to verify your identity and confirm that you are not involved in any fraudulent activities. This process is crucial to maintain the integrity of your account and avoid any legal complications.
+
+Please note that for further assistance, you can visit our nearest branch or contact us through our official customer service channels mentioned on our website. Do not use unofficial contact methods such as numbers listed on your card or contract.
+
+Thank you for your prompt attention to this matter. We appreciate your cooperation in maintaining the security of your account.
+
+Best regards,
+
+[Your Name]
+Director, [BANCA]

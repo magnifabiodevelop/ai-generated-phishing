@@ -1,0 +1,54 @@
+Subject: [ spambayes-Bugs-[PHONE] ] Can't classify words beginning with "tem"
+
+Bugs item #[PHONE], was opened at 2007-04-26 01:25
+Message generated for change (Tracker Item Submitted) made by Item Submitter
+You can respond by visiting: 
+[URL]
+
+Please note that this message will contain a full copy of the comment thread,
+including the initial issue submission, for this request,
+not just the latest update.
+Category: imapfilter
+Group: Source code - CVS
+Status: Open
+Resolution: None
+Priority: 5
+Private: No
+Submitted By: David Abrahams (david_abrahams)
+Assigned to: Tony Meyer (anadelonbrin)
+Summary: Can't classify words beginning with "tem"
+
+Initial Comment:
+When running sb_imapfilter, any word query beginning with "tem" yields the following traceback:
+
+500 Server error
+
+Traceback (most recent call last):
+
+ File "/usr/local/lib/python2.4/site-packages/spambayes/Dibbler.py", line 476, in found_terminator
+ getattr(plugin, name)(**params)
+
+ File "/usr/local/lib/python2.4/site-packages/spambayes/UserInterface.py", line 470, in onWordquery
+ row.word, row.spamcount, row.hamcount = stat[:3]
+
+ File "/usr/local/lib/python2.4/site-packages/spambayes/PyMeldLite.py", line 738, in __setattr__
+ self._replaceNodeContent(node, value)
+
+ File "/usr/local/lib/python2.4/site-packages/spambayes/PyMeldLite.py", line 654, in _replaceNodeContent
+ node.children = self._nodeListFromSource(value)
+
+ File "/usr/local/lib/python2.4/site-packages/spambayes/PyMeldLite.py", line 640, in _nodeListFromSource
+ tree = _generateTree(""+value+"")
+
+ File "/usr/local/lib/python2.4/site-packages/spambayes/PyMeldLite.py", line 574, in _generateTree
+ g.feed(source)
+
+ File "/usr/local/lib/python2.4/site-packages/spambayes/PyMeldLite.py", line 499, in feed
+ self._parser.Parse(data)
+
+ExpatError: not well-formed (invalid token): line 1, column 12
+
+----------------------------------------------------------------------
+
+You can respond by visiting: 
+[URL]

@@ -1,0 +1,6 @@
+Subject: HELP: conver gif -> icon OR gif -> ansi
+
+does anyone know of a program, to convert GIF to ICON (win 3.1)
+and GIF to ANSI
+
+Thank you, [EMAIL]

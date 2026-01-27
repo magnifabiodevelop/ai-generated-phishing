@@ -1,0 +1,19 @@
+Subject: Important Update to IT Security and Acceptable Use Policies
+
+Dear [EMPLOYEE_NAME],
+
+We are writing to inform you of an important update to our IT Security Policy and Acceptable Use Policy, effective immediately. These updates are crucial for maintaining the security and integrity of our information systems.
+
+Please review the updated policies at [POLICY_LINK]. It is essential that all employees familiarize themselves with these changes to ensure compliance and protect our company's data.
+
+We kindly request that you read the updated policies thoroughly and confirm your acknowledgment by [DEADLINE_DATE]. You can do this by submitting a ticket through our [TICKET_PORTAL] or contacting our Helpdesk at [HELPDESK_EMAIL].
+
+Your prompt attention to this matter is greatly appreciated. If you have any questions or need further clarification, please do not hesitate to reach out.
+
+Thank you for your cooperation and commitment to maintaining the security of our IT environment.
+
+Best regards,
+
+[YOUR_NAME]
+IT Department
+[COMPANY]

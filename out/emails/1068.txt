@@ -1,0 +1,21 @@
+Subject: Notification regarding your order [ORDER_ID]
+
+Dear [CUSTOMER_NAME],
+
+I am reaching out to you on behalf of the Customer Support team at [COMPANY] to inform you about an issue that may impact the delivery of your order, [ORDER_ID]. Our team has been made aware of a delay in processing and we are working diligently to resolve this as soon as possible.
+
+We estimate that the new delivery date will be [NEW_DELIVERY_DATE]. I understand how frustrating this must be for you, and I want to assure you that we are doing everything in our power to get your order to you as quickly as possible.
+
+In the meantime, we would like to offer you three options to ensure that your order is delivered to you successfully:
+
+1. New delivery date: We can adjust the delivery date to [NEW_DELIVERY_DATE] and keep you updated on any changes.
+2. Address change via [SUPPORT_PORTAL_LINK]: If there's an issue with the original shipping address, please visit our support portal at [SUPPORT_PORTAL_LINK] to update your information.
+3. Refund or replacement: If you would like to explore alternative solutions, such as a refund or replacement, please contact us and we will be happy to discuss this further.
+
+To process any of these options, please log in to your account on our website and submit a request under the "Order Tracking" section. You can also reach out to us directly at [PHONE_PLACEHOLDER] for assistance.
+
+Your case ID is [CASE_ID], which you can use to track the progress of your order. We appreciate your patience and understanding in this matter, and we will be happy to assist you further if needed.
+
+Best regards,
+
+[COMPANY] Customer Support

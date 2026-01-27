@@ -1,0 +1,21 @@
+Subject: Urgent Update Request for [PROJECT_NAME] Before Checkpoint on [CHECKPOINT_DATE]
+
+Hi Team,
+
+I hope this message finds you well.
+
+As we approach our upcoming checkpoint on [CHECKPOINT_DATE] at [CHECKPOINT_TIME], I need an urgent update from each of you to ensure we are aligned and prepared. Please provide the following information by end of day today:
+
+- Current progress on your assigned tasks
+- Next steps planned for the coming week
+- Any risks or blockers that might impact our timeline
+- Support needed from other team members or resources
+
+Please share this information in [CHANNEL_NAME] or update it directly in our project tracker at [TRACKER_LINK].
+
+Your prompt response will help us stay on track and address any issues before our checkpoint.
+
+Thank you for your cooperation.
+
+Best,
+[Team Leader]

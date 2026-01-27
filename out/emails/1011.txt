@@ -1,0 +1,20 @@
+Here is an example email:
+
+Subject: Issue with Order [ORDER_ID] - Resolution Options
+
+Dear [CUSTOMER_NAME],
+
+We regret to inform you that we have encountered a problem with your order [ORDER_ID], which may affect its timely delivery. Our team has been working diligently to resolve the issue, and we estimate that it will take us approximately [NEW_DELIVERY_DATE] to fulfill your request.
+
+To keep you informed and in control of the situation, we would like to present three resolution options for you to consider:
+
+1. **New Delivery Date**: We can reschedule the delivery date for [NEW_DELIVERY_DATE]. If this option appeals to you, please log into your account at [SUPPORT_PORTAL_LINK] and update your order details accordingly.
+2. **Change Address**: Alternatively, if your address has changed since placing the order, we can accommodate the new information. Please visit our support portal [SUPPORT_PORTAL_LINK] to make the necessary updates.
+3. **Rimbursement/S Replacement**: In case you would prefer a refund or replacement, please contact us at [PHONE_PLACEHOLDER] and we will guide you through the process.
+
+We apologize for any inconvenience this may have caused and appreciate your understanding in this matter. Your case ID is [CASE_ID], which can be used to track the progress of your issue.
+
+If you have any questions or concerns, our dedicated support team is here to help. We value your business and appreciate your patience during this time.
+
+Best regards,
+[COMPANY] Customer Support

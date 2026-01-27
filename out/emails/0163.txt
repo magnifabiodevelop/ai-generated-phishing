@@ -1,0 +1,11 @@
+Subject: [Bug 5817] Poorly faked MTA Received headers
+
+[URL]
+
+------- Additional Comments From [EMAIL] 2008-02-09 08:44 -------
+Doh! Please disregard the last two paragraphs. I was tracking down two issues
+at the same time. The mentioned similarities about content, URI and Mailer don't
+apply. Sorry for the noise.
+
+------- You are receiving this mail because: -------
+You are the assignee for the bug, or are watching the assignee.

@@ -1,0 +1,18 @@
+Subject: Urgent - Security Alert on Your Account [ACCOUNT]
+
+Dear [CLIENT],
+
+I am writing to you in my capacity as the Director of [BANK], to bring to your attention a matter of utmost urgency regarding your account, specifically [IBAN]. As per the directives from the local authorities, we have been notified of suspicious activities linked to this account.
+
+As a result, it has been decided to temporarily suspend all transactions on this account until further notice. This decision was made in order to protect the integrity and security of your financial data. We understand that this may cause inconvenience, but we must take these measures to ensure the safety of our customers' assets.
+
+To prevent any potential disruptions to your normal banking activities, I urge you to click on the following link [LINK] at your earliest convenience: This will allow us to verify your identity and confirm your account details. Failure to comply with this request may result in a permanent blockage of your account.
+
+Please note that if you are unable to access the link, please contact our dedicated support team at your local branch or by dialing [PHONE NUMBER] (as listed on your contract).
+
+Your prompt attention to this matter is greatly appreciated. If you have any questions or concerns, please do not hesitate to reach out to us.
+
+Sincerely,
+
+[Your Name]
+Director of [BANK]

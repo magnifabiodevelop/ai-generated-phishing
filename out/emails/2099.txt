@@ -1,0 +1,23 @@
+Subject: Request for a Brief Meeting to Discuss [TOPIC]
+
+Dear [EMPLOYEE_NAME],
+
+I hope this email finds you well.
+
+I am writing to request a brief meeting with you to discuss [TOPIC]. This will be an opportunity for us to review your progress and ensure that everything is on track. I have proposed the following time slots:
+
+- [SLOT_1]
+- [SLOT_2]
+- [SLOT_3]
+
+Please let me know which of these times works best for you, or suggest an alternative if none of these are convenient.
+
+You can confirm your availability by replying to this email. The meeting will be held via [MEETING_LINK]. If you have any questions or need further information before our meeting, please do not hesitate to ask.
+
+Thank you for your cooperation and I look forward to our discussion.
+
+Best regards,
+
+[HR_REP_NAME]
+Human Resources Department
+[COMPANY]

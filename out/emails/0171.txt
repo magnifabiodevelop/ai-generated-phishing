@@ -1,0 +1,7 @@
+Subject: Re: Plan9 SCSI disk exchange?
+
+it won't work. the kfs file system data is written using the host's byte order.
+
+i suppose you could try creating a custom version of kfs
+that produces the byte order you need but i suspect
+it might be fairly hard.

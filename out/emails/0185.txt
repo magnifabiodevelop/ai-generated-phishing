@@ -1,0 +1,30 @@
+Subject: Re: fix SASL "GSSAPI" bind against w2k3
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Gerald (Jerry) Carter schrieb:
+> Metze,
+> 
+>> I'm about to commit the following patch to SAMBA_3_0,
+>> which fixes the LDAP SASL "GSSAPI" bind against w2k3.
+> 
+> The comment makes sense to me. But I didn't work on
+> the original code so I'm not sure why ads->config.bind_dn
+
+I assume tridge read RFC2222 (where adding 'dn:...' is proposed)
+and tried the domain base dn and it worked against w2k...
+
+W2K totally ignores the dn, but w2k3 checks it...
+
+With the patch w2k (plain) and w2k3 (plain) are happy
+
+metze
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.5 (GNU/Linux)
+Comment: Using GnuPG with SUSE - [URL]
+
+iD8DBQFGG6NUm70gjA5TCD8RAgyOAKDO0lZjXvizR75A+rE1dLRkzHRJHgCfQmHh
+r0JYiyEqyuEH/KQrD+j9Vmg=
+=JuvK
+-----END PGP SIGNATURE-----

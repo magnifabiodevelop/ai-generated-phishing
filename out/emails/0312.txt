@@ -1,0 +1,41 @@
+Subject: Re: fix SASL "GSSAPI" bind against w2k3
+
+On Tue, 2007-04-10 at 11:28 -0500, Gerald (Jerry) Carter wrote:
+> -----BEGIN PGP SIGNED MESSAGE-----
+> Hash: SHA1
+> 
+> Jeremy Allison wrote:
+> > On Tue, Apr 10, 2007 at 09:59:25AM -0500, Gerald (Jerry) Carter wrote:
+> >> -----BEGIN PGP SIGNED MESSAGE-----
+> >> Hash: SHA1
+> >>
+> >> Stefan (metze) Metzmacher wrote:
+> >>> Gerald (Jerry) Carter schrieb:
+> >>>>> Metze,
+> >>>>>
+> >>>>>> I'm about to commit the following patch to SAMBA_3_0,
+> >>>>>> which fixes the LDAP SASL "GSSAPI" bind against w2k3.
+> >>>>> The comment makes sense to me. But I didn't work on
+> >>>>> the original code so I'm not sure why ads->config.bind_dn
+> >>> I assume tridge read RFC2222 (where adding 'dn:...' is proposed)
+> >>> and tried the domain base dn and it worked against w2k...
+> >>>
+> >>> W2K totally ignores the dn, but w2k3 checks it...
+> >>>
+> >>> With the patch w2k (plain) and w2k3 (plain) are happy
+> >> That's proof enough for me. Nice work.
+> > 
+> > Do we need this for 3.0.25 final ?
+> 
+> No. IIRC this code was disabled anyways.
+
+Well not disabled, but like the NTLM code that was hidden there, it
+wasn't possible for it to be used against any server that supports
+GSS-SPNEGO (so yes, disabled).
+
+Andrew Bartlett
+
+-- 
+Andrew Bartlett [URL]
+Authentication Developer, Samba Team [URL]
+Samba Developer, Red Hat Inc. [URL]

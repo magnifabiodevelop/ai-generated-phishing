@@ -1,0 +1,23 @@
+Here is the email:
+
+Subject: IT Governance Policy Refresh - Your Awareness Required!
+
+Dear Team,
+
+As part of our ongoing efforts to ensure the security and compliance of [COMPANY]'s data and systems, we are excited to announce the refresh of our IT Governance policies. This update aims to strengthen our controls and align them with industry best practices.
+
+To highlight a few key changes:
+
+* Data Management: We've updated our guidelines for handling sensitive information to reflect the latest regulatory requirements.
+* Remote Access: Our policy now includes enhanced security measures for remote workers, ensuring secure connections and data protection.
+* Device Updates: We've clarified the procedures for keeping devices up-to-date with the latest software and security patches.
+
+To ensure you're aware of these changes and their implications for your work, we kindly request that you complete a brief awareness module by [DUE_DATE]. You can access the module through [INTRANET_PORTAL_NAME] > [POLICY_SUMMARY_LINK].
+
+If you have any questions or concerns, please don't hesitate to reach out to our support team via [SUPPORT_CHANNEL]. For more information on our IT Governance policies and procedures, visit [TRAINING_LINK].
+
+Thank you for your cooperation and commitment to maintaining the security and integrity of our systems.
+
+Best regards,
+[Your Name]
+IT Governance Team

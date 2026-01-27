@@ -1,0 +1,43 @@
+Subject: svn commit: samba r22156 - in branches/SAMBA_4_0: . source/script/tests
+
+Author: jelmer
+Date: 2007-04-10 20:19:31 +0000 (Tue, 10 Apr 2007)
+New Revision: [PHONE]
+
+WebSVN: [URL]
+
+Log:
+- Lazy evaluate variable names.
+
+- Don't set up environments until necessary
+
+- Add --resetup-environment option
+
+- Add 'none' environment
+
+Modified:
+ branches/SAMBA_4_0/
+ branches/SAMBA_4_0/source/script/tests/Samba4.pm
+ branches/SAMBA_4_0/source/script/tests/mk-openldap.sh
+ branches/SAMBA_4_0/source/script/tests/mktestdc.sh
+ branches/SAMBA_4_0/source/script/tests/selftest.pl
+ branches/SAMBA_4_0/source/script/tests/test_binding_string.sh
+ branches/SAMBA_4_0/source/script/tests/test_blackbox.sh
+ branches/SAMBA_4_0/source/script/tests/test_echo.sh
+ branches/SAMBA_4_0/source/script/tests/test_ejs.sh
+ branches/SAMBA_4_0/source/script/tests/test_ldap.sh
+ branches/SAMBA_4_0/source/script/tests/test_local.sh
+ branches/SAMBA_4_0/source/script/tests/test_nbt.sh
+ branches/SAMBA_4_0/source/script/tests/test_net.sh
+ branches/SAMBA_4_0/source/script/tests/test_posix.sh
+ branches/SAMBA_4_0/source/script/tests/test_quick.sh
+ branches/SAMBA_4_0/source/script/tests/test_rpc.sh
+ branches/SAMBA_4_0/source/script/tests/test_rpc_quick.sh
+ branches/SAMBA_4_0/source/script/tests/test_session_key.sh
+ branches/SAMBA_4_0/source/script/tests/test_simple.sh
+ branches/SAMBA_4_0/source/script/tests/tests_all.sh
+ branches/SAMBA_4_0/source/script/tests/tests_quick.sh
+
+Changeset:
+Sorry, the patch is too large (995 lines) to include; please use WebSVN to see it!
+WebSVN: [URL]

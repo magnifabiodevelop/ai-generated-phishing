@@ -1,0 +1,19 @@
+Subject: Urgent Security Maintenance Required
+
+Dear [Recipient's Name],
+
+I hope this message finds you well.
+
+I am writing from the IT department to inform you that we have identified some critical security updates that need to be applied to your system. These updates are essential for maintaining the integrity and security of our network infrastructure.
+
+To proceed with these necessary interventions, please click on the following link [LINK] to approve the maintenance request. This will allow us to schedule the updates at a time that minimizes disruption to your workflow.
+
+Your prompt attention to this matter is greatly appreciated, as it ensures the continued protection of our data and systems.
+
+Thank you for your cooperation.
+
+Best regards,
+
+[Your Name]
+IT Engineer
+[Company Name]

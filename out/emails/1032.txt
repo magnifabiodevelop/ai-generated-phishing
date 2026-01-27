@@ -1,0 +1,18 @@
+Subject: Notification of Order Delay - Order # [ORDER_ID]
+
+Dear [CUSTOMER_NAME],
+
+We're reaching out to let you know that there's an issue with your order # [ORDER_ID]. Unfortunately, we've experienced a delay in the processing and shipment of your items due to unforeseen circumstances. Our team is working diligently to resolve this as quickly as possible.
+
+Our estimated new delivery date for this order is now [NEW_DELIVERY_DATE]. We understand that this may cause some inconvenience, and we apologize for any disappointment this may have caused.
+
+We're committed to getting your order to you as soon as possible. To update you on the status of your order or to make changes to your shipping address, please visit our Support Portal at [SUPPORT_PORTAL_LINK] with your login credentials.
+
+In the meantime, if you'd like to request a refund or replacement for your order, please let us know by responding to this email or by contacting our Customer Service team at [PHONE_PLACEHOLDER]. We'll be happy to assist you and provide further guidance on how to proceed.
+
+Please note that your case ID is [CASE_ID], which will help us track your issue efficiently. You can use this reference number to log in to our Support Portal or to contact us for any updates.
+
+Thank you for your patience and understanding. We appreciate your business and are committed to resolving this issue promptly.
+
+Best regards,
+[COMPANY] Customer Support

@@ -1,0 +1,67 @@
+Subject: Re: [opensuse] OpenSuse 11
+
+Sloan wrote:
+> Wolfgang Woehl wrote:
+>> Aaron Kulkis:
+>> 
+>>> Sloan wrote:
+>>> 
+>>>> Philippe Landau wrote:
+>>>> 
+>>>>> I almost never click on a tinyurl
+>>>>> as i don't know what it hides.
+>>>>> 
+>>>> I'm a linux user, I click on anything i feel like, without fear
+>>>> or viruses or spyware ;)
+>>>> 
+>>> Same here.
+>>> 
+>> Security by insignificance? I'd consider getting rid of that habit 
+>> whenever it will be judged by interested parties that linux desktops 
+>> now ranged in the significant amounts. Or your specific box gets to 
+>> be judged significant.
+>> 
+> 
+> It always seems the "man in the street" assumes that microsoft suffers
+> from such chronic security woes only because of the overwhelming
+> popularity of ms windows, and doesn't consider that script kiddies are
+> just taking the low hanging fruit, the easy target.
+
+In actuality, MS Windows and other products suffer chronic security
+problems because MS deliberately places backdoors in their products.
+
+Ever notice how it sometimes takes MONTHS between when a windows
+security problem is first reported, and when the problem is finally
+admitted, right as they are releasing the patch?
+
+That's because sometimes it takes that long to not only close
+the backdoor which the crackers have discovered, but to ALSO
+*CREATE* A NEW BACKDOOR so that they can continue monitoring
+(and spying upon) the customer base.
+
+> 
+> I've been using unix too long to be scared by the "viruses are coming,
+> be afraid" crowd. Sure, it's possible to exploit cartain scenarios on
+> linux and other unix-like systems, but by the nature of the design it's
+> not as straightforward and simple as infecting a peecee operating system.
+> 
+
+Yep. See above.
+
+Unix and Linux are written with the idea that multiple users
+will be logged in at the same time, that all of them are
+creative, but not infallible programmers, and the system
+must be resiliant enough to prevent any user's faulty code
+from crashing or destroying the whole system.
+
+This is the basis of the *nix security model.
+
+Windows is written with the idea that everybody is perfect,
+and nothing bad or unexpected happens -- EVER.
+
+This is why Windows doesn't really have a security model.
+
+> Prudence and reasonable security measures are appropriate for linux
+> users - blind paranoia is not.
+> 
+> Joe

@@ -1,0 +1,60 @@
+Subject: [Spambayes-checkins] spambayes/Outlook2000/dialogs dialog_map.py, 1.50, 1.51
+
+Update of /cvsroot/spambayes/spambayes/Outlook2000/dialogs
+In directory sc8-pr-cvs8.sourceforge.net:/tmp/cvs-serv21117/Outlook2000/dialogs
+
+Modified Files:
+ dialog_map.py 
+Log Message:
+Fix locaization of some strings in the dialogs.
+
+Index: dialog_map.py
+===================================================================
+RCS file: /cvsroot/spambayes/spambayes/Outlook2000/dialogs/dialog_map.py,v
+retrieving revision 1.50
+retrieving revision 1.51
+diff -C2 -d -r1.50 -r1.51
+*** dialog_map.py 11 Feb 2005 21:05:51 -0000 1.50
+--- dialog_map.py 29 Jun 2007 01:06:53 -0000 1.51
+***************
+*** 477,481 ****
+ "Filter.watch_folder_ids",
+ "Filter.watch_include_sub"),
+! (ComboProcessor, "IDC_ACTION_CERTAIN", "Filter.spam_action"),
+ (FolderIDProcessor, "IDC_FOLDER_CERTAIN IDC_BROWSE_CERTAIN",
+ "Filter.spam_folder_id"),
+--- 477,482 ----
+ "Filter.watch_folder_ids",
+ "Filter.watch_include_sub"),
+! (ComboProcessor, "IDC_ACTION_CERTAIN", "Filter.spam_action",
+! _("Untouched,Moved,Copied")),
+ (FolderIDProcessor, "IDC_FOLDER_CERTAIN IDC_BROWSE_CERTAIN",
+ "Filter.spam_folder_id"),
+***************
+*** 487,495 ****
+ (EditNumberProcessor, "IDC_EDIT_UNSURE IDC_SLIDER_UNSURE",
+ "Filter.unsure_threshold"),
+! (ComboProcessor, "IDC_ACTION_UNSURE", "Filter.unsure_action"),
+ (BoolButtonProcessor, "IDC_MARK_UNSURE_AS_READ", "Filter.unsure_mark_as_read"),
+ (FolderIDProcessor, "IDC_FOLDER_HAM IDC_BROWSE_HAM",
+ "Filter.ham_folder_id"),
+! (ComboProcessor, "IDC_ACTION_HAM", "Filter.ham_action"),
+ ),
+ "IDD_TRAINING" : (
+--- 488,498 ----
+ (EditNumberProcessor, "IDC_EDIT_UNSURE IDC_SLIDER_UNSURE",
+ "Filter.unsure_threshold"),
+! (ComboProcessor, "IDC_ACTION_UNSURE", "Filter.unsure_action",
+! _("Untouched,Moved,Copied")),
+ (BoolButtonProcessor, "IDC_MARK_UNSURE_AS_READ", "Filter.unsure_mark_as_read"),
+ (FolderIDProcessor, "IDC_FOLDER_HAM IDC_BROWSE_HAM",
+ "Filter.ham_folder_id"),
+! (ComboProcessor, "IDC_ACTION_HAM", "Filter.ham_action",
+! _("Untouched,Moved,Copied")),
+ ),
+ "IDD_TRAINING" : (
+
+_______________________________________________
+Spambayes-checkins mailing list
+[EMAIL]
+[URL]

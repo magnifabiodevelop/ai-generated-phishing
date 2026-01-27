@@ -1,0 +1,192 @@
+version: "1.1"
+language: "en"
+
+preprocessing:
+  lowercase: true
+  normalize_whitespace: true
+
+  # NEW: remove anything inside square brackets, e.g. [URL], [EMAIL], [name], [link], etc.
+  ignore_square_bracket_placeholders: true
+  square_bracket_regex: "\\[[^\\]]*\\]"
+
+categories:
+  - id: "cta_action"
+    name: "Call-to-Action (CTA)"
+    description: "Direct requests pushing the recipient to perform an action."
+    type: ["keywords", "regex"]
+    keywords:
+      - "click"
+      - "verify"
+      - "confirm"
+      - "update"
+      - "review"
+      - "open"
+      - "respond"
+      - "complete"
+      - "sign in"
+      - "log in"
+      - "login"
+      - "reset"
+      - "activate"
+      - "submit"
+      - "follow instructions"
+    regex:
+      - "\\b(please\\s+)?(click|verify|confirm|update|review|respond|complete|submit)\\b"
+      - "\\b(sign\\s*in|log\\s*in|login)\\b"
+      - "\\breset\\s+your\\s+password\\b"
+
+  - id: "urgency_time"
+    name: "Urgency / Time Pressure"
+    description: "Time constraints, immediacy cues, short deadlines."
+    type: ["keywords", "regex"]
+    keywords:
+      - "urgent"
+      - "immediately"
+      - "asap"
+      - "right away"
+      - "today"
+      - "now"
+      - "final notice"
+      - "last chance"
+      - "deadline"
+      - "time-sensitive"
+      - "within 24 hours"
+      - "within 48 hours"
+    regex:
+      - "\\bwithin\\s+\\d+\\s+(hours|days)\\b"
+      - "\\bby\\s+(today|tomorrow|end of day|eod)\\b"
+
+  - id: "threat_consequence"
+    name: "Threat / Negative Consequences"
+    description: "Penalties, restriction, losses, enforcement consequences."
+    type: ["keywords", "regex"]
+    keywords:
+      - "suspended"
+      - "locked"
+      - "disabled"
+      - "terminated"
+      - "restricted"
+      - "blocked"
+      - "deactivated"
+      - "penalty"
+      - "fine"
+      - "legal action"
+      - "consequences"
+      - "violation"
+    regex:
+      - "\\b(account|access)\\s+(will\\s+be\\s+)?(suspended|locked|disabled|restricted|blocked)\\b"
+      - "\\b(if\\s+you\\s+do\\s+not|failure\\s+to)\\s+\\w+\\b"
+
+  - id: "authority_institution"
+    name: "Authority / Institutional Tone"
+    description: "Formal institutional framing, official enforcement language."
+    type: ["keywords", "regex"]
+    keywords:
+      - "compliance"
+      - "security team"
+      - "it department"
+      - "administrator"
+      - "official notice"
+      - "reference number"
+      - "case number"
+      - "department"
+      - "policy enforcement"
+    regex:
+      - "\\b(case|reference)\\s*(no\\.|number)\\b"
+      - "\\bofficial\\s+notice\\b"
+
+  - id: "legitimacy_markers"
+    name: "Trust-Building / Legitimacy Markers"
+    description: "Phrases that attempt to appear legitimate and reduce suspicion."
+    type: ["keywords"]
+    keywords:
+      - "for your security"
+      - "as a precaution"
+      - "we value your privacy"
+      - "this is an automated message"
+      - "do not reply"
+      - "confidential"
+      - "official"
+
+  - id: "emotion_triggers"
+    name: "Social Engineering Emotion Triggers"
+    description: "Fear/anxiety cues: unusual activity, fraud, risk, compromise."
+    type: ["keywords", "regex"]
+    keywords:
+      - "unusual activity"
+      - "suspicious"
+      - "fraud"
+      - "risk"
+      - "compromised"
+      - "security alert"
+      - "to prevent"
+      - "avoid disruption"
+    regex:
+      - "\\bunusual\\s+activity\\b"
+      - "\\bsecurity\\s+alert\\b"
+
+  - id: "credentials_account"
+    name: "Account Access & Credentials"
+    description: "References to passwords, credentials, sign-in attempts."
+    type: ["keywords", "regex"]
+    keywords:
+      - "password"
+      - "credentials"
+      - "username"
+      - "sign-in"
+      - "login attempt"
+      - "account verification"
+      - "reset password"
+    regex:
+      - "\\b(login\\s+attempt|sign-?in\\s+attempt)\\b"
+      - "\\b(account\\s+verification|verify\\s+your\\s+account)\\b"
+
+  - id: "mfa_verification"
+    name: "MFA / Verification Mentions (Text-only)"
+    description: "Mentions of MFA, verification codes, authentication steps."
+    type: ["keywords"]
+    keywords:
+      - "verification code"
+      - "two-factor"
+      - "multi-factor"
+      - "mfa"
+      - "authentication"
+      - "security code"
+
+  - id: "finance_billing"
+    name: "Payment / Invoice / Billing References (Abstract)"
+    description: "Financial/billing context at category level (no actionable details)."
+    type: ["keywords"]
+    keywords:
+      - "invoice"
+      - "payment"
+      - "billing"
+      - "transaction"
+      - "refund"
+      - "outstanding balance"
+      - "due"
+      - "overdue"
+
+  - id: "attachment_doc"
+    name: "Attachment / Document Lures"
+    description: "References to attachments or documents meant to be opened."
+    type: ["keywords"]
+    keywords:
+      - "attachment"
+      - "attached"
+      - "document"
+      - "pdf"
+      - "statement"
+      - "report"
+      - "invoice attached"
+
+  - id: "formality_politeness"
+    name: "Formality / Politeness Markers"
+    description: "Formal greeting and closing structures."
+    type: ["keywords"]
+    keywords:
+      - "dear"
+      - "sincerely"
+      - "kind regards"
+      - "best regards"
+      - "thank you"

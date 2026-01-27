@@ -1,0 +1,23 @@
+Here is the email:
+
+Subject: Refresh of IT Governance Policies - Awareness Required
+
+Dear Colleagues,
+
+I am pleased to announce that our team has refreshed the [COMPANY] IT Governance policies to ensure alignment with industry best practices and regulatory requirements. This refresh includes updates to key areas, including data management, remote access, and device updates.
+
+To better understand these changes, I encourage you to review the [POLICY_SUMMARY_LINK] for a detailed overview of the updated policies. The most significant changes include:
+
+* Enhanced data management procedures to ensure confidentiality and integrity
+* Simplified remote access process for improved productivity and security
+* Streamlined device update processes to reduce downtime and improve efficiency
+
+To demonstrate your awareness of these changes, please complete the brief [AWARENESS_MODULE_LINK] by [DUE_DATE]. This will help us track employee understanding and compliance with the new policies.
+
+For more information or support, please visit our [INTRANET_PORTAL_NAME] or reach out to our [SUPPORT_CHANNEL].
+
+Thank you for your attention to this matter. If you have any questions or concerns, please do not hesitate to reach out.
+
+Best regards,
+[Your Name]
+IT Governance Team

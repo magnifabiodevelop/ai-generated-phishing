@@ -1,0 +1,3 @@
+Subject: Alert!!! Urgent Email Administrator Upgrade
+
+Untitled Document   Server Alert     Subject:   Your mailbox Quota is full. Upgrade quota now! Message: Dear account holder, Your mailbox ([EMAIL]) has run out of quota and due for upgrade. Soon you will no longer be able to send or receive emails henceforth unless you upgrade your mail quota now. Click here to upgrade your mailbox now If you fail to upgrade your mail quota now, yourr mailbox will be shutdown without further notice.   Source:   Mail Center

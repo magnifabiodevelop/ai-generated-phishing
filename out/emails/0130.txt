@@ -1,0 +1,153 @@
+Subject: [UAI] CFP: Constraint Solving & Programming at 20th Annual ACM Symposium on Applied Computing
+
+With Apologies for multiple copies
+
+ CALL FOR PAPERS
+
+ Track on Constraint Solving and Programming
+
+ part of
+
+ the 20th Annual ACM Symposium on Applied Computing
+
+ Santa Fe, New Mexico
+ March 13 -17, 2005
+
+ [URL]
+
+************************************************************************
+OVERVIEW
+
+Constraints have emerged as the basis of a representational and
+computational paradigm that draws from many disciplines and can be
+brought to bear on many problem domains.
+
+************************************************************************
+SCOPE
+
+The track is concerned with all aspects of computing with constraints
+including algorithms, applications, environments, languages, models,
+and systems. Contributions are welcome from any discipline concerned
+with constraints, including artificial intelligence, combinatorial
+algorithms, computational logic, concurrent computation, databases,
+discrete mathematics, operations research, programming languages, and
+symbolic computation. We also solicit papers from any domain employing
+constraints, including computational linguistics, configuration,
+decision support, design, diagnosis, graphics, hardware verification,
+molecular biology, planning, qualitative reasoning, real-time systems,
+resource allocation, robotics, scheduling, software engineering,
+temporal reasoning, vision, visualization, and user interfaces. Papers
+that bridge disciplines or combine theory and practice or discuss
+novel reasoning methods are especially welcome. A special attention is
+focused around the use of constraint technologies in the networking,
+wireless and internet fields.
+
+************************************************************************
+SUBMISSIONS
+
+We would like to invite authors to submit papers on research on
+constraint solving and programming, with particular emphasis on
+assessing the current state of the art and identifying future
+directions.
+
+Preliminary guidelines:
+Submissions should be properly anonymized to facilitate blind
+reviewing: papers being submitted should not list the authors,
+affiliations or addresses on the first page and authors are also
+encouraged to take care throughout the entire document to minimise
+references that may reveal the identity of the authors or
+institution. The body of each paper should not exceed 4,000
+words. Papers failing to comply with length limitations risk immediate
+rejection. At least three reviewers will be assigned to each
+submission to the track. Accepted papers are published by ACM in both
+printed form and CD-ROM; they are also available on the Web through
+the ACM Digital Library. Once accepted, papers must fit within five
+(5) two column pages (please check the author kit on the main SAC
+website: the format is usually the format used in the ACM templates),
+with the option (at additional expense) to add three (3) more pages.
+A second set of selected papers, which did not get accepted as full
+papers, will be accepted as posters and will be published as extended
+2-page abstracts in the symposium proceedings.
+
+Authors of accepted papers must be prepared to sign a copyright
+statement and must pay the registration fee and guarantee that their
+paper will be presented at the conference.
+
+Paper submissions should be sent (as an attached PDF file) to:
+
+ [EMAIL]
+
+The body of the email should include the title of the paper, the
+author(s) name(s) and affiliation(s), and the address (including
+e-mail, telephone, and fax) to which correspondence should be sent.
+The subject of the email should be "SAC2005 constraint track
+submission" We strongly suggest to use for submission the available
+camera ready templates, and adhere to the 5 page limitation.
+
+Registration is required for paper and poster inclusion in the
+Conference Proceedings, and for event attendance.
+
+************************************************************************
+IMPORTANT DATES
+
+The proposed schedule of important dates for the track is as follows:
+
+Paper Submission deadline August 31, 2004
+Notification of acceptance October 18, 2004
+Camera-ready version deadline November 2, 2004
+Track Dates March 13-17, 2005
+
+************************************************************************
+ORGANISATION:
+
+Organising Committee
+- --------------------
+
+Stefano Bistarelli (Primary Contact)
+ Dipartimento di Scienze
+ Università degli studi "G. D'Annunzio" di Chieti-Pescara, Italy
+ Email: [EMAIL]
+ Web: [URL]
+ and
+ Istituto di Informatica e Telematica
+ C.N.R. Pisa, Italy
+ Email: [EMAIL]
+
+Eric Monfroy
+ LINA
+ University of Nantes,France
+ Email: [EMAIL]
+ Web: [URL]
+
+Barry O'Sullivan
+ Cork Constraint Computation Centre
+ Department of Computer Science
+ University College Cork, Ireland
+ Email: [EMAIL]
+ Web: [URL]
+
+Programme Committee (more to come)
+- ----------------------------------
+Stefano Bistarelli (University of Pescara, Italy --- C.N.R., Pisa, Italy)
+Eric Monfroy (University of Nantes, France)
+Barry O'Sullivan (University College Cork, Ireland)
+Roman Bartak, Charles University, Czech Republic
+Stefano Bistarelli, Università degli studi "G. D'Annunzio" di 
+Chieti-Pescara, Italy
+Carlos Castro, UTFSM Valparaiso, Chile
+Yves Colombani, DASH, UK
+Hani El Sakkout, Parc technologies, UK
+Filippo Focacci, ILOG, France
+Markus Fromherz, Palo Alto Research Center, USA
+Laurent Granvilliers, LINA, Université de Nantes, France
+Narendra Jussien, LINA, EMN, France
+Arnaud Lallouet, LIFO, Orléans, France
+Jimmy Lee, Chinese University of Hong Kong
+Michela Milano, DEIS - Università di Bologna, Italy
+Eric Monfroy, LINA, Université de Nantes, France
+Carlos Alberto Olarte, Pontificia Universidad Javeriana, Colombia
+María Cristina Riff, UTFSM, Chile
+Frédéric Saubion, LERIA, Université d'Angers, France
+Peter Stuckey, the University of Melbourne, Australia
+József Váncza, MTA SZTAKI, Hungary
+Roland Yap, National University of Singapore

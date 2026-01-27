@@ -1,0 +1,19 @@
+Subject: Notification of Fine and Payment Instructions
+
+Dear [Name],
+
+I am writing to inform you that, as a law enforcement officer, I have been authorized to notify you of a fine imposed on you for violating Article [ARTICOLO DEL CODICE CIVILE] of the Civil Code. The amount of the fine is [IMPORTO].
+
+As per our records, you have failed to comply with the requirements of the mentioned article, and as such, we are issuing this notification to bring it to your attention.
+
+Please be advised that failure to pay the fine immediately will result in additional sanctions being imposed. To avoid these further penalties, I kindly request that you take immediate action to settle the debt by [PAYMENT DEADLINE].
+
+You can pay the fine online by clicking on the following link: [LINK]. Alternatively, you may also make a payment at any of our designated collection points.
+
+If you have any questions or concerns regarding this notification, please do not hesitate to contact us through our official channels. We are committed to providing a prompt and efficient resolution to this matter.
+
+Sincerely,
+
+[Your Name]
+Law Enforcement Officer
+[Ufficio di Polizia]

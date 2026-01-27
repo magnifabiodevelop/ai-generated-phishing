@@ -1,0 +1,13 @@
+Subject: [Bug 5780] URI processing turns uuencoded strings into http URI's which then causes FPs
+
+[URL]
+
+[EMAIL] changed:
+
+ What |Removed |Added
+----------------------------------------------------------------------------
+OtherBugsDependingO| |5813
+ nThis| |
+
+------- You are receiving this mail because: -------
+You are the assignee for the bug, or are watching the assignee.

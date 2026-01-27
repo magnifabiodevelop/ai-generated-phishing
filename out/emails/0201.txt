@@ -1,0 +1,10 @@
+Subject: Re: sparc fileservers
+
+| In fact, we have Plan 9 running here at UO using only the Unix
+| based file server, since right now there are no spare machines
+| to dedicate a Plan 9 file server.
+
+That's more or less our situation as well. In a previous message you
+said that you were running with hacked sources and lots of things
+didn't work. I'm interested in hearing more about what you've done and
+how things are working out these days.

@@ -1,0 +1,22 @@
+Here is the email:
+
+Subject: Notification of Issue with Order [ORDER_ID]
+
+Dear [CUSTOMER_NAME],
+
+We regret to inform you that we have encountered an issue with your order [ORDER_ID] that may impact its timely delivery. Our team has been working diligently to resolve the matter, and we are estimating a new delivery date of [NEW_DELIVERY_DATE].
+
+The reason for this delay is due to [BRIEFLY EXPLAIN THE PROBLEM]. We understand how frustrating this must be, and we want to assure you that we are doing everything in our power to get your order back on track.
+
+To address this issue, we offer the following options:
+
+1. Update your delivery date: You can log in to your account through [SUPPORT_PORTAL_LINK] to schedule a new delivery date.
+2. Change your shipping address: If you need to modify your shipping address, please visit our support portal at [SUPPORT_PORTAL_LINK] and follow the instructions.
+3. Request a refund or replacement: If you would like to request a refund or replacement, please contact us through our support portal with your [CASE_ID]. One of our representatives will be in touch within 24 hours.
+
+Please feel free to reach out to us if you have any questions or concerns regarding this issue. Our customer support team is always here to help. You can also call us at [PHONE_PLACEHOLDER] during business hours.
+
+Thank you for your patience and understanding. We appreciate the opportunity to serve you better.
+
+Best regards,
+The Customer Support Team

@@ -1,0 +1,3 @@
+Subject: macro expansion
+
+The program: % cat failed.c #include #include #define x(p) printf("Macro expansion %d\\n", p ); static void * Point() { int x; } main() {} The problem: Macros kc failed.c failed.c:7 syntax in macro expansion: x failed.c:8 syntax error, last name: x The inexplicable: % cpp failed.c | kc -o failed.k % kl failed.k Thanks for your help. -hp

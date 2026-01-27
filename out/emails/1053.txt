@@ -1,0 +1,20 @@
+Here is the email:
+
+Subject: Important Update on Your Order [ORDER_ID]
+
+Dear [CUSTOMER_NAME],
+
+We regret to inform you that there has been an issue with your order [ORDER_ID] that may impact its delivery. Unfortunately, we have encountered a delay in processing your package, and our estimated new delivery date is now [NEW_DELIVERY_DATE].
+
+We understand the inconvenience this may cause and are committed to finding a solution as soon as possible. We would like to present you with three options to resolve this issue:
+
+1. New Delivery Date: We can provide an updated delivery date for your order, which will be reflected in our system.
+2. Address Update: If you would like to change the shipping address, please log into your account on [SUPPORT_PORTAL_LINK] and update your information.
+3. Refund/Replacement: Alternatively, we can process a refund or replacement for your order. Please let us know which option you prefer by responding to this email or calling our support team at [PHONE_PLACEHOLDER].
+
+To track the status of your case, please visit our support portal with [CASE_ID] and follow the instructions.
+
+We apologize again for any inconvenience this may cause and appreciate your patience and understanding in this matter. If you have any questions or concerns, please don't hesitate to contact us.
+
+Best regards,
+[COMPANY] Customer Support

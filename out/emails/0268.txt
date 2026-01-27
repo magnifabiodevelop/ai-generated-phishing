@@ -1,0 +1,6 @@
+Subject: Re: MS Exchange + TLS+AUTH as a relay host
+
+Thanks for the help guys, problem solved.
+
+-- 
+alex

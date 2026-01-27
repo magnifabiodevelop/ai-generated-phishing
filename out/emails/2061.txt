@@ -1,0 +1,20 @@
+Subject: Request for Project Update Before [CHECKPOINT_DATE] Checkpoint
+
+Hi Team,
+
+I hope this message finds you well.
+
+As we approach our upcoming checkpoint on [CHECKPOINT_DATE] at [CHECKPOINT_TIME], I would appreciate an update from each of you to ensure we are aligned and prepared. Please provide the following information:
+
+- Current progress on your tasks
+- Next steps planned for the coming week
+- Any risks or blockers encountered
+- Support needed to keep moving forward
+
+Please share this information via [CHANNEL_NAME] by end of day tomorrow.
+
+Looking forward to hearing from you all.
+
+Best,
+[Your Name]
+Team Leader, [PROJECT_NAME]

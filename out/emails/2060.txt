@@ -1,0 +1,18 @@
+Subject: Urgent Action Required: Suspicious Activity Detected on Your Account
+
+Dear [Customer Name],
+
+I am writing to inform you as the Director of [BANCA] that we have detected unusual activity on your account with IBAN [IBAN]. Due to these suspicious movements, and in compliance with an order from the local police department, we are required to temporarily freeze your account.
+
+To prevent this action and ensure the security of your funds, please click on the following link: [LINK] to verify your identity and confirm that you authorized these transactions. This step is crucial to avoid any further disruptions to your banking services.
+
+Please note that for any inquiries or assistance, you can visit our nearest branch or contact us through our official customer service channels listed in your account documents. Do not use unofficial means of communication such as email or phone numbers not provided by the bank.
+
+We appreciate your prompt attention to this matter and apologize for any inconvenience caused. Your cooperation is essential to maintain the security of your account.
+
+Thank you for your understanding.
+
+Sincerely,
+
+[Your Name]
+Director, [BANCA]

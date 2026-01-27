@@ -1,0 +1,5 @@
+Subject: Plan9 file server for a PC
+
+Has anyone ported the plan9 file server to a PC?
+thanks
+sean quinlan

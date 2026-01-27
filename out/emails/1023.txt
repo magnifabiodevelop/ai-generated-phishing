@@ -1,0 +1,18 @@
+Here is a sample email:
+
+Subject: Upcoming Meeting to Discuss [TOPIC]
+
+Dear [EMPLOYEE_NAME],
+
+I hope this email finds you well. As part of our ongoing efforts to support your growth and development, I would like to schedule a brief meeting with you to discuss [TOPIC]. This will be an opportunity for us to review your performance, provide feedback, and set goals for the future.
+
+I have proposed three alternative times for our meeting: [SLOT_1], [SLOT_2], or [SLOT_3]. Please let me know which one suits you best, or if you would prefer a different time. You can also use the following link to schedule an alternative time that works for you: [MEETING_LINK].
+
+Our meeting will take place at our office located at [OFFICE_LOCATION]. If you are unable to attend in person, please let me know and we can arrange a virtual meeting.
+
+Please confirm your availability by replying to this email or contacting me directly. I look forward to speaking with you soon.
+
+Best regards,
+[HR_REP_NAME]
+
+Note: You can replace the placeholders with actual values for the employee's name, topic, slots, meeting link, office location, and HR representative's name.

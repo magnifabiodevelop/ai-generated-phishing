@@ -1,0 +1,11 @@
+Subject: re: telnet/tcp bugs
+
+>i've been experiencing some weird protocol errors and disconnects when
+>telneted to plan 9. are there any known bugs which might explain this?
+Yes, I am unable to write functioning TCP code and
+I've done it at least three times, never the same bug
+twice, never able to talk to the same set of machines.
+If you have to talk to PC's and MAC's your TCP code
+must be broken by definition.
+
+phil

@@ -1,0 +1,7 @@
+Subject: [reminder] pointer to Plan 9 FAQ
+
+The Plan 9 faq is posted to comp.os.plan9 at the beginning of each month.
+It is also at news.answers archive sites, look for comp-os/plan9-faq
+
+The hypertext version of the faq is always available at url
+[URL]

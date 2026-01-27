@@ -1,0 +1,26 @@
+Subject: Issue with Order [ORDER_ID] - We're Here to Help!
+
+Dear [CUSTOMER_NAME],
+
+We regret to inform you that we've encountered an issue with your order [ORDER_ID]. Unfortunately, this means that we'll need to adjust our estimated delivery date.
+
+After investigating the matter, our team has determined that a [PROBLEM_TYPE] has arisen. We apologize for any inconvenience this may cause and are working diligently to resolve the issue as quickly as possible.
+
+Based on our current estimate, we expect to be able to deliver your order by [NEW_DELIVERY_DATE]. If you have any further questions or concerns, please don't hesitate to reach out.
+
+In the meantime, we'd like to offer you the following options:
+
+1. Update your delivery address via our [SUPPORT_PORTAL_LINK] portal.
+2. Schedule a revised delivery date by contacting us at [PHONE_PLACEHOLDER].
+3. Request a full or partial refund/ substitution for the affected item(s). Please note that this option may affect the overall value of your order.
+
+To better assist you, we've created a [CASE_ID] in our system, which will allow us to track and manage your case efficiently.
+
+Please feel free to contact us if you have any questions or concerns. We appreciate your understanding and cooperation as we work to resolve this issue.
+
+Thank you for choosing [COMPANY]. We're committed to providing the best possible experience for all of our customers.
+
+Best regards,
+[Your Name]
+Customer Support
+[COMPANY]

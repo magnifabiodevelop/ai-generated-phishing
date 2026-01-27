@@ -1,0 +1,22 @@
+Here is an example email:
+
+Subject: Issue with Order [ORDER_ID] - Update and Resolution Options
+
+Dear [CUSTOMER_NAME],
+
+We're reaching out to you regarding your order [ORDER_ID], which has been impacted by a recent issue. Our team has been working diligently to resolve the matter, and we apologize for any inconvenience this may have caused.
+
+Unfortunately, due to [PROBLEM_DESCRIPTION], we've had to adjust our delivery schedule. We expect to deliver your order on or before [NEW_DELIVERY_DATE]. If you're concerned about the delay, please know that we're committed to getting your order to you as soon as possible.
+
+To help us resolve this issue, we'd like to offer you a few options:
+
+1. Update your delivery date: You can adjust your delivery schedule through our support portal at [SUPPORT_PORTAL_LINK]. Simply log in with your credentials and click on the "Order Tracking" tab.
+2. Change your shipping address: If your address has changed, please update it through the same portal to ensure a smooth delivery process.
+3. Request a refund or replacement: If you'd prefer a refund or replacement item, please let us know by replying to this email. We'll guide you through the process and provide a [REFUND/REPLACEMENT] voucher.
+
+To keep track of your case, we've assigned it a unique ID: [CASE_ID]. Should you have any questions or concerns, please don't hesitate to reach out to us at [PHONE_PLACEHOLDER].
+
+Thank you for your patience and understanding. We're committed to making things right and ensuring your satisfaction with our products.
+
+Best regards,
+[COMPANY] Customer Support

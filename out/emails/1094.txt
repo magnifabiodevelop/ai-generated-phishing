@@ -1,0 +1,25 @@
+Here is the email:
+
+Subject: Follow-up Meeting for [EMPLOYEE_NAME]'s Onboarding
+
+Dear [EMPLOYEE_NAME],
+
+I hope this email finds you well. As part of our onboarding process, I would like to schedule a brief meeting with you to discuss your transition into the new role at [COMPANY].
+
+The purpose of this meeting is to ensure that you have all the necessary information and support to excel in your position. We will also use this opportunity to address any questions or concerns you may have.
+
+Would you be available to meet on one of the following dates:
+
+* [SLOT_1] - [MEETING_LINK]
+* [SLOT_2] - [MEETING_LINK]
+* [SLOT_3] - [MEETING_LINK]
+
+Please let me know which slot works best for you, or if none of these options are suitable, please suggest alternative times. If needed, we can also schedule a meeting at [OFFICE_LOCATION].
+
+If you have any documents to review prior to the meeting, please access them through our HR portal at [HR_PORTAL_LINK].
+
+Looking forward to speaking with you soon.
+
+Best regards,
+
+[HR_REP_NAME]

@@ -1,0 +1,6 @@
+Subject: nan
+
+I was just playing with ftpfs, grepping a huge file from gatekeeper.dec.com,
+watching the ftp cache grow and grow when my sparcstation went catatonic.
+Is this a bug? :-) What sort of bug report would be helpful in a case
+like this?

@@ -1,0 +1,23 @@
+Subject: Re: wrt inotify problem
+
+On Tue, 2007-04-10 at 18:00 +0200, Volker Lendecke wrote:
+> On Tue, Apr 10, 2007 at 11:56:27AM -0400, simo wrote:
+> > > What error message do we get from which syscall?
+> > 
+> > The ioctl in notify_inotify.c line 232 fails.
+> > 
+> > ioctl(in->fd, FIONREAD, &bufsize) return -1 in this case.
+> 
+> Is there a specific errno that this gives?
+
+Yes sorry, as pasted on IRC:
+ vl, ioctl(28, FIONREAD, [0]) = -1 EACCES
+(Permission denied)
+
+Simo.
+
+-- 
+Simo Sorce
+Samba Team GPL Compliance Officer
+email: [EMAIL]
+[URL]

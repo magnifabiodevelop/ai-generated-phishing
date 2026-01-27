@@ -1,0 +1,18 @@
+Subject: comp.os.plan9 vote.
+
+Voting for the comp.os.plan9 newsgroup should start in a day or two; I've
+heard from the votetaker, who has the Call For Votes ready to go. 
+
+I hope everybody interested in seeing a plan9 newsgroup will vote for this
+proposal. During the discussion period on Usenet, no one objected to the
+concept but some questioned the need to moderate the group. A couple of
+people from this list defended that need (quite well, I thought) -- still
+there may be some people who won't vote for a moderated group, and even
+some who may vote against it. 
+
+A failed newsgroup proposal can't be brought up again for a vote for 6
+months, so if you want to see a plan9 newsgroup soon it's important that
+you vote for this proposal! 
+
+The votetaker will send the Call For Votes to this mailing list after it
+is posted on Usenet; it'll have the voting instructions.

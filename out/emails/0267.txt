@@ -1,0 +1,24 @@
+Subject: Re: [opensuse] OpenSuse 11
+
+Basil Chupin wrote:
+>
+> The need to create a normal, limited access, user in XP Professional
+> is not something which is enforced in Professional which is why, I
+> understand, most XP Prof. setups are being run by a home user with
+> full Admin. rights. I cannot see why the Home edition should be more
+> security conscious than the Professional edition, and also cost much
+> less, unless SP1 and SP2 introduced the ability to create
+> limited-access users in the Home edition.
+>
+
+I believe both versions work the same. The first account has admin
+rights and many people don't go beyond that to create users with
+restricted rights. They simply don't realize the difference between
+admin and user. At least in Linux, at least SUSE, you get warnings
+about running as root and you're expected to create a user during
+install. With Ubuntu and some other distros, the first user is an admin
+user, with rights to create a root password. Additional users are mere
+mortals.
+
+-- 
+Use OpenOffice.org

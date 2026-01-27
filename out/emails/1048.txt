@@ -1,0 +1,21 @@
+Subject: Update on Your Order [ORDER_ID]
+
+Dear [CUSTOMER_NAME],
+
+I am reaching out to you regarding your order [ORDER_ID], which was affected by a unforeseen issue that may impact its timely delivery. I want to apologize for any inconvenience this may cause and provide you with an estimated resolution timeline.
+
+Our team is working diligently to resolve the problem, and we expect to have it resolved by [NEW_DELIVERY_DATE]. In the meantime, I would like to offer you three options to ensure your order is delivered as soon as possible:
+
+1. **New Delivery Date**: We can adjust the delivery date to [NEW_DELIVERY_DATE] for your order.
+2. **Change Address**: You can update your shipping address via our [SUPPORT_PORTAL_LINK] by clicking on "Edit Order" and following the prompts.
+3. **Rimbursement/Swap**: If you would prefer a refund or substitution, please let us know by responding to this email, and we will guide you through the process.
+
+To keep track of your case, I have assigned it the reference number [CASE_ID]. You can also reach me directly at [PHONE_PLACEHOLDER] if you have any questions or concerns.
+
+Please feel free to contact me or our support team if you need further assistance. We appreciate your patience and understanding in this matter.
+
+Best regards,
+
+[Your Name]
+Customer Support
+[COMPANY]

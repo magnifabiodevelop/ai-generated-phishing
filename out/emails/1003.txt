@@ -1,0 +1,21 @@
+Subject: Refresh of IT Governance Policies and Awareness Reminder
+
+Dear Colleagues,
+
+We are pleased to announce the refresh of our IT Governance policies, designed to ensure the secure and efficient use of company resources. As part of this process, we have made several key updates that impact your daily activities.
+
+Three major changes to note include:
+
+* Enhanced data management procedures for sensitive information
+* Improved remote access controls for increased security
+* Updated device update protocols to reduce vulnerability
+
+To help you navigate these changes, we invite you to complete a brief awareness module by [DUE_DATE]. This will ensure you are well-equipped to comply with our updated policies. Simply log in to [INTRANET_PORTAL_NAME] and access the [POLICY_SUMMARY_LINK] for more information.
+
+For any questions or concerns, please visit [SUPPORT_CHANNEL] or schedule a training session through [TRAINING_LINK].
+
+We appreciate your cooperation and commitment to maintaining our high standards of IT governance.
+
+Best regards,
+[Your Name]
+IT Governance Team

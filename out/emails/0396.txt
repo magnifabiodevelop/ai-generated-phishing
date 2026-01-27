@@ -1,0 +1,23 @@
+Subject: Re: [opensuse] Unstable system - who is the culprit?
+
+On Thu, 2008-02-07 at 10:13 +0100, Per Jessen wrote:
+> Randall R Schulz wrote:
+> 
+> > Offhand, I don't know how the efficiency of today's power supplies
+> > varies with the percentage of their rated output they're producing. In
+> > other words, does a higher-capacity PSU consume more mains power for a
+> > given level of consumption on its output side? If so, you wouldn't
+> > want to have such a large PSU, since that would be wasteful.
+> 
+> I haven't looked at switchmode technology for quite some time, but I
+> would expect a fairly fixed efficiency in the 80-90% range, quite
+> probably more. There will be a minimum consumption required in order
+> to achieve optimal operation, but otherwise I think the output power
+> will be e.g. 80% of the input power, and the rest is turned into heat. 
+or to say it another way...(at 80% efficiency) a 150 watt supply or a
+500 watt supply should either one pull the same current from the mains,
+if they alternately supply the same 80 watt load (ie MB)...approximately
+100 watts from the mains in each example. It would NOT be wasteful to
+the environment...(but maybe to your wallet).
+
+Tom in NM

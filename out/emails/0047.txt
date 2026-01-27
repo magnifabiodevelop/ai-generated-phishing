@@ -1,0 +1,1722 @@
+Subject: [clamav-virusdb] Update (daily: 5739)
+
+ClamAV database updated (08 Feb 2008 10-19 +0000): daily.cvd
+Version: 5739
+
+Submission-ID: [PHONE]
+Sender: Rob Weston
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Already detected as Dialer-1959
+Added: No
+Virus name alias: Trojan.DNSChanger.BX (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Anonymous
+Submission notes: Already detected as Trojan.Dropper-4089
+Added: No
+Virus name alias: Trojan.Win32.Agent.eho (Kaspersky AVP)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.QQPass-630
+Added: No
+Virus name alias: DeepScan:Generic.PWStealer.DC6C6610 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Dropped:Trojan.PWS.OnLineGames.NQQ (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: DeepScan:Generic.PWS.Games.1.2CAB010B (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.PWS.OnLineGames.NSR (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Already detected as Trojan.PcClient-686
+Added: No
+Virus name alias: Trojan.Dropper.ROH (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Already detected as Dialer-2097
+Added: No
+Virus name alias: Trojan.Mezzia.CY (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.PWS.OnlineGames.NZG (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Already detected as Trojan.Hupigon-7366
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Mybot-9599
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Mario Oyorzabal Salgado
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: BehavesLike:Trojan.Downloader (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Igor Diniz Silveira
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Bo Kleve
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: nik
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Christoph Moench-Tegeder
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.PWS.OnlineGames.NZG (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.PWS.OnLineGames.NSR (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: College Cork
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Ciadoor-423
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: n/a
+Sender: n/a
+Added: Trojan.Bancos-8507
+Added: Trojan.Downloader-[PHONE]
+Added: Trojan.Downloader-[PHONE]
+Added: Trojan.Downloader-[PHONE]
+Added: Trojan.Agent-[PHONE]
+Added: Trojan.Agent-[PHONE]
+Added: Trojan.Bancos-8508
+Added: Trojan.Bancos-8509
+Added: Trojan.Downloader-[PHONE]
+Added: Trojan.Small-4977
+Added: Trojan.Bancos-8510
+Added: Trojan.Downloader-[PHONE]
+Added: Trojan.VB-1660
+Added: Trojan.Agent-[PHONE]
+Added: Trojan.Downloader-[PHONE]
+Added: Trojan.Small-4978
+
+-- 
+Best regards,
+ Christoph 
+
+_______________________________________________
+[URL]

@@ -1,0 +1,23 @@
+Subject: Important Update: IT Governance Policy Refresh
+
+Dear [COMPANY] Team,
+
+We are writing to announce the upcoming refresh of our IT Governance policies. This update is designed to enhance our security posture and ensure compliance with industry standards.
+
+Here are three key changes you can expect:
+
+1. **Data Management**: Enhanced protocols for data classification and handling to better protect sensitive information.
+2. **Remote Access**: Updated guidelines for secure remote access, including the use of multi-factor authentication (MFA).
+3. **Device Updates**: New requirements for regular device updates and patches to maintain system integrity.
+
+To ensure you are fully informed about these changes, please complete a brief awareness module available at [TRAINING_LINK]. This module will provide detailed information on the new policies and how they affect your daily operations.
+
+The deadline to complete this training is [DUE_DATE].
+
+For any questions or support, please refer to our IT Governance resources on [INTRANET_PORTAL_NAME] or contact us through [SUPPORT_CHANNEL].
+
+Thank you for your cooperation in maintaining a secure and compliant IT environment at [COMPANY].
+
+Best regards,
+
+[IT GOVERNANCE TEAM]

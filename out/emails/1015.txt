@@ -1,0 +1,23 @@
+Subject: Refresh of IT Governance Policies - Your Awareness is Required!
+
+Dear Colleagues,
+
+As part of our ongoing efforts to ensure the security and integrity of [COMPANY]'s information assets, we are pleased to announce the refresh of our IT Governance policies. This update aims to strengthen our controls and procedures to meet evolving threats and regulatory requirements.
+
+Three key changes have been introduced:
+
+* Enhanced data management practices for handling sensitive information
+* Updates to remote access protocols to improve security and convenience
+* Streamlined device update processes to minimize downtime and ensure compliance
+
+To ensure a smooth transition, we kindly request that you complete a brief awareness module, which will be available on [INTRANET_PORTAL_NAME] by [DUE_DATE]. This module will take only a few minutes to complete and will help familiarize you with the new policies.
+
+For more information on these updates, please visit [POLICY_SUMMARY_LINK]. If you have any questions or concerns, please reach out to our support team through [SUPPORT_CHANNEL].
+
+We encourage all employees to review and acknowledge the updated policies by [DUE_DATE] to ensure compliance. You will find detailed information on the new policies and training opportunities on [INTRANET_PORTAL_NAME].
+
+Thank you for your cooperation and commitment to maintaining a secure and compliant environment.
+
+Best regards,
+[Your Name]
+IT Governance Team

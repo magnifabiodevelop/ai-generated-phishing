@@ -1,0 +1,22 @@
+Here is an example email:
+
+Subject: Delayed Shipment for Order [ORDER_ID]
+
+Dear [CUSTOMER_NAME],
+
+We regret to inform you that there has been a delay in processing your order [ORDER_ID]. Our team has encountered an issue with verifying your shipping address, which may cause a slight delay in the delivery of your package.
+
+Our estimated new delivery date is [NEW_DELIVERY_DATE]. We apologize for any inconvenience this may cause and want to provide you with some options to ensure that your order is delivered as soon as possible:
+
+Option 1: Track your order's progress through our [SUPPORT_PORTAL_LINK] portal, where you can stay updated on the latest developments.
+
+Option 2: Update your shipping address via the same [SUPPORT_PORTAL_LINK] portal. Simply log in and follow the instructions to make any necessary changes.
+
+Option 3: If you would like to request a refund or replacement, please feel free to contact us at [PHONE_PLACEHOLDER]. We'll be happy to assist you with the process.
+
+Please note that your case ID is [CASE_ID], which can be referenced if you have any further questions or concerns. Our team will do everything possible to get your order to you as soon as possible.
+
+Thank you for your understanding and cooperation. If you have any questions, please don't hesitate to reach out.
+
+Best regards,
+[COMPANY] Customer Support

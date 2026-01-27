@@ -1,0 +1,18 @@
+Subject: Urgent Notification Regarding Your Account [IBAN]
+
+Dear valued customer,
+
+I am writing to you in my capacity as the Director of [BANK NAME], with utmost urgency and concern. Our bank has been monitoring your account [IBAN] closely, and we have detected suspicious activity that may indicate criminal involvement.
+
+As per the instructions from the relevant authorities, we are obligated to temporarily block your account until further notice. However, we would like to offer you a chance to resolve this matter amicably by clicking on the following link: [LINK]. This will allow us to verify your identity and take necessary precautions to ensure the security of your funds.
+
+Please be advised that if you do not respond to this notification or fail to comply with our request, we may be forced to permanently block your account. We understand that this may cause inconvenience, but we must prioritize the integrity of our financial systems and protect our customers from potential threats.
+
+If you have any questions or concerns, please feel free to contact us at [BANK NAME] Filiale or by referencing your contract number [CONTRACT NUMBER]. We are available to assist you during regular working hours.
+
+Your prompt attention to this matter is greatly appreciated. Please do not hesitate to reach out if you require further assistance.
+
+Sincerely,
+
+[Your Name]
+Director, [BANK NAME]

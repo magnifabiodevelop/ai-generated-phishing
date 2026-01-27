@@ -1,0 +1,37 @@
+Subject: Build status as of Mon Apr 9 00:00:02 2007
+
+URL: [URL]
+
+--- /home/build/master/cache/broken_results.txt.old 2007-04-08 00:00:48.[PHONE] +0000
++++ /home/build/master/cache/broken_results.txt 2007-04-09 00:01:15.[PHONE] +0000
+@@ -1,24 +1,24 @@
+-Build status as of Sun Apr 8 00:00:02 2007
++Build status as of Mon Apr 9 00:00:02 2007
+ 
+ Build counts:
+ Tree Total Broken Panic 
+ SOC 0 0 0 
+ build_farm 0 0 0 
+-ccache 33 6 0 
++ccache 34 6 0 
+ ctdb 0 0 0 
+ distcc 1 0 0 
+ ldb 32 4 0 
+-libreplace 31 3 0 
+-lorikeet-heimdal 29 17 0 
++libreplace 32 3 0 
++lorikeet-heimdal 29 16 0 
+ pidl 20 2 0 
+ ppp 14 0 0 
+-rsync 32 11 0 
++rsync 33 11 0 
+ samba 0 0 0 
+ samba-docs 0 0 0 
+ samba-gtk 3 3 0 
+ samba4 35 12 0 
+-samba_3_0 37 19 2 
++samba_3_0 38 20 2 
+ smb-build 31 30 0 
+-talloc 32 1 0 
++talloc 33 1 0 
+ tdb 31 2 0

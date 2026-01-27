@@ -1,0 +1,20 @@
+Subject: Pre-Checkpoint Update Request for [PROJECT_NAME]
+
+Dear Team,
+
+As we approach the next checkpoint on [CHECKPOINT_DATE] at [CHECKPOINT_TIME], I'd like to request an update from each of you before then. This will help us stay aligned and address any potential issues that may arise.
+
+Please include the following in your response:
+
+• Current progress: What have you accomplished since our last meeting?
+• Next steps: What are the key tasks you'll be focusing on before the next checkpoint?
+• Risks and blockers: Are there any challenges or obstacles you're facing, and what support do you need to overcome them?
+• Any additional resources or tools needed: Is there anything we can provide to help you move forward?
+
+Your prompt response will enable us to make informed decisions and ensure a smooth transition to the next phase. You can track our project progress on [TRACKER_LINK] and stay updated through [CHANNEL_NAME].
+
+Looking forward to hearing from each of you soon!
+
+Best regards,
+[Your Name]
+Team Leader, [PROJECT_NAME]

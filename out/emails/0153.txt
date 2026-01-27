@@ -1,0 +1,104 @@
+Subject: First Steps to Unified Communications and More
+
+Webcast Alert
+
+February 08, 2008
+
+Published by 
+
+SearchNetworking.com
+
+ Webcast Alert
+
+WEBCAST ROUNDUP 
+
+Dear SearchNetworking.com member,
+
+View these Webcasts recently held on SearchNetworking.com:
+
+> Deploying Cisco Catalyst 6500 Virtual Switching 1440> Unified Communications Is Inevitable - Are You in the Lead or Dragging Your Feet? Simplify IT - Here's How: 
+
+VENDOR WEBCAST
+
+Deploying Cisco Catalyst 6500 Virtual Switching 1440
+
+ 
+ 
+  VIEW WEBCAST 
+
+WHEN:
+AVAILABLE ON DEMAND
+
+SPEAKERS:
+Rob Sloan, Product Marketing Manager, Cisco Systems
+
+ 
+Balaji Sivasubramanian, Product Manager
+
+ 
+ SPONSOR:  
+Cisco Systems
+
+SUMMARY:
+Today, high availability and real-time communications are absolute requirements for campus and data center networks. And, as more and more rich applications and services are added, satisfying the demands of your users and minimizing network complexity are becoming critical challenges.
+
+In this environment, how can you assure uninterrupted performance without breaking your IT budget? Cisco solves your dilemma with Virtual Switching System (VSS) technology for the Cisco Catalyst 6500 Series Switches. This innovation enables you to cluster two Cisco Catalyst 6500 switches into a single, logically managed entity.
+
+Join us for a live TechTalk Webcast and learn how the new Virtual Switching 1440 for the Cisco Catalyst 6500 Series can help you protect and enhance your existing technology investments, simplify your network architecture, and accelerate your network's performance.
+
+This informative Webcast will show you how VSS 1440:
+
+Simplifies network complexity and management by 50 percent
+Scales bandwidth to 1.4 Tbps in your existing network infrastructure
+Provides nonstop communications and enhanced network reliability
+Increases bandwidth by activating all redundant uplinks
+
+VENDOR WEBCAST
+
+Unified Communications Is Inevitable - Are You in the Lead or Dragging Your Feet? Simplify IT - Here's How:
+
+ 
+ 
+  VIEW WEBCAST 
+
+WHEN:
+AVAILABLE ON DEMAND
+
+SPEAKERS:
+Roger Murff, Director of Microsoft Unified Communications Partner Marketing
+
+ 
+Rick Sant'Angelo, Unified Communications Practice Lead, Dell
+
+ 
+ SPONSOR:  
+Dell, Inc.
+
+SUMMARY:
+Are you looking to learn how to get started with Unified Communications? This is the first webcast of a series that will assist you in developing your roadmap for implementation of UC and put you on the path to success. This webcast focuses on the best place to start when undertaking a UC project within your enterprise. Learn how taking a modular deployment approach can simplify your roadmap to a Unified Communications strategy
+ and where to go from here.
+
+VIEW WEBCASTS 
+
+Get informed. Check out all our available webcasts to get the information you need to make the right IT Business decisions from leading industry experts and vendors.
+
+> View all Webcasts
+
+ 
+   A B O U T   T H I S   A L E R T
+ 
+
+ Contact us:
+ SearchNetworking
+ Member Services
+ 117 Kendrick Street, Suite 800
+ Needham, MA [PHONE]
+
+ 
+ This e-newsletter is published by SearchNetworking.com, a targeted Web site from TechTarget, The IT Media ROI Experts and events company.
+ TechTarget offers magazines, Web sites, e-newsletters, Webcasts and conferences for enterprise IT professionals. 
+ Copyright 2008 TechTarget. All rights reserved.
+
+If you no longer wish to receive Webcast Alert from SearchNetworking.com go to unsubscribe: [URL]
+
+ Please note, unsubscribe requests may take up to 24 hours to process; you may receive additional mailings during that time. A confirmation e-mail will be sent when your request has been successfully processed.

@@ -1,0 +1,3 @@
+Subject: DHL Shipment Notification : [PHONE]
+
+Dear Customer, DHL Express informs you that your shipment [PHONE] is still waiting for your instructions .It will be delivered as soon as the costs are paid. Fees to be paid : USD [AMOUNT]You have a period of 48 hours to recover your package, otherwise it will be returned to the sender. Click here to view the status of your orderhttps.//dhl.com/apps/dhltrack/?[[-Email-]]=[PHONE]  Support Team DHL

@@ -1,0 +1,32 @@
+Subject: Re: svn commit: samba r22132 - in branches: SAMBA_3_0/source/modules SAMBA_3_0/source/smbd SAMBA_3_0_25/source/modules SAMBA_3_0_25/source/smbd
+
+On Sun, Apr 08, 2007 at 03:25:55PM -0700, James Peach wrote:
+> On 08/04/2007, at 12:41 PM, [EMAIL] wrote:
+> 
+> >Author: jra
+> >Date: 2007-04-08 19:41:47 +0000 (Sun, 08 Apr 2007)
+> >New Revision: [PHONE]
+> >
+> >WebSVN: [URL] 
+> >view=rev&root=samba&rev=[PHONE]
+> >
+> >Log:
+> >I hate inefficiency. Don't call conv_str_size()
+> >on every pread/sendfile call, initialize these
+> >variables in an allocated struct at connection
+> >time and just refer to them directly.
+> 
+> This code is so close to vfs_cacheprime that I'm tempted to suggest 
+> they should be merged. Was there a particular reason you didn't do this?
+
+Yes - mine is much simpler :-). I was just doing
+the minimal thing that works for Vista.
+
+Doing cacheprime isn't the same as the readahead()
+system call on Linux. posix_fadvise is close enough
+that I could squeeze it in....
+
+This code gives a marked speed increase for Vista
+clients when using explorer against Linux servers.
+
+Jeremy.

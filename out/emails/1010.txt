@@ -1,0 +1,25 @@
+Here is an example email:
+
+Subject: Update Request Before [CHECKPOINT_DATE] Checkpoint
+
+Dear [TEAM_MEMBER],
+
+As we approach the [CHECKPOINT_DATE] checkpoint for [PROJECT_NAME], I'd like to request a brief update from you on your progress, next steps, and any challenges or risks you're currently facing.
+
+To help me better understand where you are in the project, please provide the following information:
+
+• Current status of your tasks and milestones
+• Any upcoming deadlines or critical dependencies
+• Risks or potential blockers you're experiencing
+• Support or resources you need to stay on track
+
+Additionally, I'd like to know what you consider a success story from this checkpoint, and what would be the biggest achievement for you personally.
+
+Please reply by [CHECKPOINT_TIME] at the latest, so we can discuss any concerns or adjustments before the deadline. You can find all project details and updates on our [TRACKER_LINK].
+
+Looking forward to your update!
+
+Best regards,
+[Your Name]
+Team Leader, [PROJECT_NAME]
+CHANNEL_NAME

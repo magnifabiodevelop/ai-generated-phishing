@@ -1,0 +1,32 @@
+Here is the email:
+
+Subject: Brief Meeting Invitation - [TOPIC]
+
+Dear [EMPLOYEE_NAME],
+
+I hope this email finds you well. As part of our ongoing efforts to support your professional growth and development, I would like to schedule a brief meeting with you to discuss [TOPIC].
+
+The purpose of this meeting will be to [BRIEFLY DESCRIBE THE MEETING'S OBJECTIVE]. Your attendance is highly valued as it will enable us to have a more in-depth conversation about your progress and goals.
+
+I propose the following available slots:
+
+* [SLOT_1] at [TIME_1]
+* [SLOT_2] at [TIME_2]
+* [SLOT_3] at [TIME_3]
+
+Please let me know which one suits you best, or if you would prefer an alternative time. If none of these options work for you, please suggest a few alternatives that do.
+
+To confirm the meeting, simply reply to this email with your preferred slot. You can also use the link below to access our calendar and book the appointment:
+
+[MEETING_LINK]
+
+Looking forward to speaking with you soon! Please feel free to reach out if you have any questions or concerns in advance.
+
+Best regards,
+
+[HR_REP_NAME]
+Risorse Umane
+[COMPANY]
+[OFFICE_LOCATION]
+
+Note: You can find more information about our HR Portal and other resources at [HR_PORTAL_LINK].

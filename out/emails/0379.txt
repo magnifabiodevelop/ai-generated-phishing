@@ -1,0 +1,14 @@
+Subject: Re: PM-10
+
+Hello wind_erosion netters! 
+
+Our lab is trying to relate wind erosion to PM-10 particles and we need
+instrumentation to collect PM-10 samples in the field. We are now using the
+mini-vol sampler but would like to explore alternative technologies. We
+hope to find something smaller than the Anderson high-vol and are familiar
+with the Cahill's drum sampler. Are there any other instruments suitable for
+ground-based field measurement of PM-10? 
+I look forward to any replies.
+
+Ted Zobeck
+[EMAIL]

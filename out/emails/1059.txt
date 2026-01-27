@@ -1,0 +1,22 @@
+Here is an example email:
+
+Subject: Notification of Delay with Order [ORDER_ID]
+
+Dear [CUSTOMER_NAME],
+
+We regret to inform you that there has been a delay in the processing of your order [ORDER_ID]. Our team has identified an issue that affects the timely delivery of your package.
+
+We are working diligently to resolve this issue as soon as possible. Based on our current estimates, we anticipate that your order will be delivered by [NEW_DELIVERY_DATE].
+
+To ensure that you receive your order in a timely manner, we recommend one of the following options:
+
+1. Update your delivery address through our Support Portal at [SUPPORT_PORTAL_LINK]. Please log in to your account and make any necessary changes to your shipping information.
+2. Contact us to schedule a new delivery date that suits your needs. You can reach out to our team by replying to this email or calling us at [PHONE_PLACEHOLDER].
+3. Request a full refund or replacement for your order. If you prefer to cancel your order and receive a full refund, please let us know. Alternatively, if you would like to exchange your order for another item, we can assist with the process.
+
+To track the status of your order, you can log in to our Support Portal at [SUPPORT_PORTAL_LINK] using your case ID [CASE_ID].
+
+Please feel free to contact us if you have any questions or concerns. We appreciate your patience and understanding as we work to resolve this issue.
+
+Best regards,
+The Customer Support Team

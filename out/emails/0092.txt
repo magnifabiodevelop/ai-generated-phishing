@@ -1,0 +1,2489 @@
+Subject: [clamav-virusdb] Update (daily: 5745)
+
+ClamAV database updated (08 Feb 2008 23-21 +0000): daily.cvd
+Version: 5745
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.LdPinch-1413
+Added: No
+Virus name alias: Packer.Malware.FriCryptor.B (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4934
+Added: No
+Virus name alias: Generic.Malware.P!VPk!.70DEE52E (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4941
+Added: No
+Virus name alias: DeepScan:Generic.Malware.P!VPk!.2081BC8A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4886
+Added: No
+Virus name alias: Generic.Malware.P!VPk!.795F1B86 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4568
+Added: No
+Virus name alias: MemScan:Backdoor.Bifrose.NQ (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: BehavesLike:Trojan.WinlogonHook (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.LdPinch-1409
+Added: No
+Virus name alias: Packer.Malware.FriCryptor.B (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4296
+Added: No
+Virus name alias: MemScan:Trojan.Agent.AGHH (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Hupigon-7388
+Added: No
+Virus name alias: Backdoor.Hupigon.ZHS (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.LdPinch-1458
+Added: No
+Virus name alias: Packer.Malware.FriCryptor.B (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4918
+Added: No
+Virus name alias: DeepScan:Generic.Malware.P!VPk!.DFC3131C (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4882
+Added: No
+Virus name alias: DeepScan:Generic.Malware.P!VPk!.5838C131 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4919
+Added: No
+Virus name alias: DeepScan:Generic.Malware.P!VPk!.[PHONE] (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4911
+Added: No
+Virus name alias: DeepScan:Generic.Malware.P!VPk!.D17A44D6 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Trojan.Downloader.Banload.NVY (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4920
+Added: No
+Virus name alias: Generic.Malware.P!VPk!.4CCBB353 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: DeepScan:Generic.Malware.dld!!.9912E9D4 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4896
+Added: No
+Virus name alias: DeepScan:Generic.Malware.P!VPk!.3D3D10E6 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4933
+Added: No
+Virus name alias: Generic.Malware.P!VPk!.F9A8B7F7 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4964
+Added: No
+Virus name alias: DeepScan:Generic.Malware.P!VPk!.34B87B36 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4902
+Added: No
+Virus name alias: DeepScan:Generic.Malware.P!VPk!.BDFFA255 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4890
+Added: No
+Virus name alias: DeepScan:Generic.Malware.P!VPk!.[PHONE] (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4903
+Added: No
+Virus name alias: DeepScan:Generic.Malware.P!VPk!.3DBFECA6 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Delf-2917
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4945
+Added: No
+Virus name alias: Generic.Malware.P!VPk!.E8C97C6A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.VB-1613
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4912
+Added: No
+Virus name alias: DeepScan:Generic.Malware.P!VPk!.36AC9FF6 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Agent-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: GenPack:Trojan.Downloader.Banload.NXX (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Hupigon-7404
+Added: No
+Virus name alias: GenPack:Backdoor.Pigeon.KG (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Ciadoor-438
+Added: No
+Virus name alias: DeepScan:Generic.Malware.G!SKI!!FLMWX!!Bg.B3777812 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4396
+Added: No
+Virus name alias: MemScan:Trojan.Agent.AGHH (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4899
+Added: No
+Virus name alias: Generic.Malware.P!VPk!.F01835CD (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: DeepScan:Generic.Malware.Bdld!!.C7F0AD66 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Pakes-1064
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Vundo-897
+Added: No
+Virus name alias: Trojan.Vundo.Gen.2 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Pakes-1133
+Added: No
+Virus name alias: Trojan.PWS.LdPinch.TFX (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.PcClient-736
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Vundo-903
+Added: No
+Virus name alias: Trojan.Vundo.DWO (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Trojan.Downloader.JJLM (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: BehavesLike:Trojan.ShellHook (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.VB-1626
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.PWS.OnlineGames.OPU (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Vundo-981
+Added: No
+Virus name alias: Trojan.Vundo.Gen.2 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Agent-[PHONE]
+Added: No
+Virus name alias: BehavesLike:Win32.Malware (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Already detected as Trojan.Small-4860
+Added: No
+Virus name alias: Trojan.Small.NDU (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.PWS.Onlinegames.NYS (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Vundo-891
+Added: No
+Virus name alias: Trojan.Vundo.DUI (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Mybot-9644
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Packer.Expressor.B (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Dropped:Generic.Malware.SBdld.13EE185F (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.VB-1642
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Agent-[PHONE]
+Added: No
+Virus name alias: DeepScan:Generic.Malware.G!SKI!!FMPWX!!BVPkprng.0EAB2EE0 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Vundo-937
+Added: No
+Virus name alias: Trojan.Vundo.Gen.2 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Agent-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4561
+Added: No
+Virus name alias: Trojan.Dropper.VB.FT (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Agent-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Already detected as Trojan.Vundo-1018
+Added: No
+Virus name alias: Trojan.Vundo.Gen.2 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Hupigon-7387
+Added: No
+Virus name alias: Packer.YodaBased.B (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Bancos-8486
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Already detected as Trojan.Delf-3019
+Added: No
+Virus name alias: Trojan.PWS.QQPass.MN (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4869
+Added: No
+Virus name alias: Trojan.Agent.AGKZ (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Brazilian CERT
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.Spy.Delf.SI (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Pakes-1067
+Added: No
+Virus name alias: Packer.Malware.FriCryptor.B (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Bancos-8428
+Added: No
+Virus name alias: Packer.PESpin.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Vundo-1008
+Added: No
+Virus name alias: Trojan.Vundo.Gen.2 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.Spy.Delf.SI (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Win32.Kashu.A (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Hupigon-7418
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: DeepScan:Generic.Malware.Bdld!!.958FA676 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Hupigon-7385
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4328
+Added: No
+Virus name alias: MemScan:Trojan.Agent.AGHH (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4355
+Added: No
+Virus name alias: MemScan:Trojan.Agent.AGHH (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Hupigon-7297
+Added: No
+Virus name alias: BehavesLike:Win32.ExplorerHijack (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4476
+Added: No
+Virus name alias: MemScan:Trojan.Downloader.Delf.APP (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4527
+Added: No
+Virus name alias: MemScan:Trojan.Agent.AGHH (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Agent-[PHONE]
+Added: No
+Virus name alias: Trojan.Agent.AGKK (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Mybot-9650
+Added: No
+Virus name alias: Generic.Sdbot.1F9E8D3F (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Agent-[PHONE]
+Added: No
+Virus name alias: Trojan.Agent.AGKK (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Mybot-9716
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Mybot-9639
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.PcClient-718
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Agent-[PHONE]
+Added: No
+Virus name alias: Trojan.Agent.AGKK (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Hupigon-7343
+Added: No
+Virus name alias: MemScan:Backdoor.Hupigon.1096 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.PcClient-676
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Already detected as Trojan.Hupigon-7376
+Added: No
+Virus name alias: Generic.Graybird.B63E4D1F (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Already detected as Trojan.Dropper-4470
+Added: No
+Virus name alias: Packer.YodaBased.B (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Already detected as Trojan.Hupigon-7405
+Added: No
+Virus name alias: Backdoor.Hupigon.YWK (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Already detected as Trojan.Hupigon-7415
+Added: No
+Virus name alias: DeepScan:Generic.Hupigon.YQA.[PHONE] (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Already detected as Trojan.Hupigon-7370
+Added: No
+Virus name alias: GenPack:Backdoor.Pigeon.KG (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: DeepScan:Generic.Malware.Bdld!!.AA4BB67D (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: GenPack:Trojan.Downloader.Dadobra.TN (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4303
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: DeepScan:Generic.Malware.Bdld!!.DE4DCC12 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4341
+Added: No
+Virus name alias: Trojan.Dropper.Delf.ET (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: DeepScan:Generic.Malware.Bdld!!.F4C33985 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4497
+Added: No
+Virus name alias: Trojan.PSW.LdPinch.AKX (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4563
+Added: No
+Virus name alias: MemScan:Trojan.Dropper.LDPinch.L (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Small-4973
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4314
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Dropper-4463
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Delf-2970
+Added: No
+Virus name alias: Backdoor.Delf.AML (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Vladislav
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.PWS.Onlinegames.NXK (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Agent-[PHONE]
+Added: No
+Virus name alias: Trojan.Agent.AGQU (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Agent-[PHONE]
+Added: No
+Virus name alias: Trojan.Agent.AGKK (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Hupigon-6984
+Added: No
+Virus name alias: Packer.Malware.VPacker.B (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Added: Worm.Stration-162
+Virus name alias: Trojan.Stration.DAV (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.DNSChanger-2392
+Added: No
+Virus name alias: Trojan.DNSChanger.QN (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: DeepScan:Generic.Malware.Bdld!!.86D09812 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Clicker-591
+Added: No
+Virus name alias: Trojan.Clicker.Agent.OP (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.DNSChanger-2475
+Added: No
+Virus name alias: Trojan.DNSChanger.BX (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Already detected as Trojan.Dropper-4087
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: GenPack:Generic.PWStealer.58783C65 (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.Downloader.Delf.APP (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.DNSChanger-2368
+Added: No
+Virus name alias: Trojan.Peed.Gen (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.PWS.OnLineGames.NSR (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.IRCBot-1570
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Added: Trojan.Spy-[PHONE]
+Virus name alias: Trojan.PWS.OnLineGames.NSR (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan.PWS.Onlinegames.NYS (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Already detected as Trojan.DNSChanger-2434
+Added: No
+Virus name alias: Trojan.Peed.Gen (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Mario
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan-PSW.Win32.OnLineGames.qso (Kaspersky AVP), Trojan.PWS.Wsgame.2387 (Drweb), Packer.Malware.NSAnti.K (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Aaron Malagon
+Submission notes: Already detected as Trojan.Spy-[PHONE]
+Added: No
+Virus name alias: Trojan-PSW.Win32.OnLineGames.bh (Kaspersky AVP)
+
+Submission-ID: [PHONE]
+Sender: Jotti
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Mario Oyorzabal Salgado
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: Trojan.DownLoader.8834 (Drweb), BehavesLike:Trojan.Downloader (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Bill
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: Lecervoisier
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: VirScan.org
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: YS
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+Submission-ID: [PHONE]
+Sender: YS
+Submission notes: Already detected as Trojan.Delf-3084
+Added: No
+Virus name alias: Worm.Win32.AutoRun.ber (Kaspersky AVP), Win32.HLLW.Autoruner.1080 (Drweb), Trojan.Agent.AGHM (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Fernando Hartmann
+Submission notes: Already detected as Trojan.Downloader-[PHONE]
+Added: No
+Virus name alias: BehavesLike:Trojan.Downloader (Bitdefender)
+
+Submission-ID: [PHONE]
+Sender: Virus Total
+Submission notes: Same as in Submission-ID [PHONE]
+Added: No
+
+-- 
+Best regards,
+ Christoph 
+
+_______________________________________________
+[URL]

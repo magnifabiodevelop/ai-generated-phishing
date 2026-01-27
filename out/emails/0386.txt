@@ -1,0 +1,43 @@
+Subject: Re: [R] Reasons to Use R
+
+Dear Johann and Gabor,
+
+It's what amounts to large datasets. There are hundreds of datasets R
+can't handle, probably thousands or more. I noticed on my computer
+(which is nothing more that an average PC) that R breaks down after 250
+MB of memory. I also note that SPSS breaks down, Matlab, etc.
+
+I'm not a SAS user, but I have worked in the past with SAS. It's very
+good as a remember, but it's ten years ago. And it's a "dollar machine"
+I've been told: you add dollars to SAS as you add dollars to a Porsche.
+I haven't got it and for most statistical applications it isn't
+necessary I've been told. R is sufficient for that. The datasets I use
+are often not that big (the way I like it).
+About three years ago I spoke to somebody who has worked with it and
+said "it's database system is excellent and statistical profound".
+Someone with a PhD, so probably he is right.
+
+Monte-Carlo simulations are computationally time-consuming, but probably
+these can be done in R. I haven't seen any libaries for it (they might
+be there). It has been done with S (the commercial counterpart of R), so
+probably with R too. If you tie Monte Carlo simulaton with large
+datasets you probably run into problems with a conventional R system.
+What I've been told in those instances is "buy a new computer" / "add
+memory and buy a new processor"... and don't smoke hashiesh.
+
+That wasn't a good advice because the guy who told me smoked hashiesh
+like hell and drank Pastis (blue liqor) like water. I kicked him out.
+But that's another story.
+
+Cheers,
+
+Wilfred
+
+(I drink wine and tailor made beer, and only on occasions. That's why.
+His simulations were good I've been told.)
+
+______________________________________________
+[EMAIL] mailing list
+[URL]
+PLEASE do read the posting guide [URL]
+and provide commented, minimal, self-contained, reproducible code.

@@ -1,0 +1,3 @@
+Subject: Email termination notice for [EMAIL]
+
+Dear User, Your e-mail will expire soon, We recommend that you upgrade your account now to avoid suspension. Click here to proceed. Sincerely Mail Administrator Dear User,   Your e-mail will expire soon,   We recommend that you upgrade your account now to avoid suspension.   Click here to proceed.   SincerelyMail Administrator

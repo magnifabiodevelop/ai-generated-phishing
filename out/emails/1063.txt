@@ -1,0 +1,21 @@
+Here is the email:
+
+Subject: Request for Update Before [CHECKPOINT_DATE] Checkpoint
+
+Dear Team,
+
+As we approach the upcoming [CHECKPOINT_DATE] checkpoint, I would like to request an update on our project status. Could you please share your current progress, outlining any key milestones achieved and any remaining tasks?
+
+Additionally, could you provide information on the following:
+
+• What are the next steps you plan to take?
+• Are there any potential risks or roadblocks that we should be aware of?
+• Do you require any support or resources from the team or stakeholders?
+
+Please respond with a brief update by [CHECKPOINT_TIME] so we can review and discuss our progress before the checkpoint. You can use the [TRACKER_LINK] to track your tasks and progress.
+
+I'm looking forward to hearing back from you and discussing how we can continue to move the project forward.
+
+Best regards,
+[Your Name]
+Team Leader, [PROJECT_NAME]

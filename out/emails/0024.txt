@@ -1,0 +1,32 @@
+Subject: Re: [opensuse] Power Supply PSU Efficiency (was: Unstable system - who is the culprit?
+
+On Saturday 09 February 2008 04:31:06 pm Randall R Schulz wrote:
+> On Saturday 09 February 2008 16:46, [EMAIL] wrote:
+> > On Saturday 09 February 2008 09:39:13 am Randall R Schulz wrote:
+> > > ...
+> > >
+> > > But to go back to the original question (mine), the issue is
+> > > whether highly over-rated supply is wasteful of power. It appears
+> > > they are.
+> > >
+> > >
+> > > Randall Schulz
+> >
+> > I disagree:
+> >
+> > I looked at a bunch of efficiency plots from 80plus.org.
+>
+> Can you help me find such plots?
+>
+> Thanks.
+>
+>
+> Randall Schulz
+
+go to
+
+ [URL] as posted in this thread.
+
+then click on a particular brand and select a unit.
+
+d.

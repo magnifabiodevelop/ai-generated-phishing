@@ -1,0 +1,15 @@
+Subject: [Bug 5790] update INSTALL docs to note DNSBL usage bug in Solaris 8
+
+[URL]
+
+------- Additional Comments From [EMAIL] 2008-02-08 02:01 -------
+(In reply to comment #28)
+> Does the patch appear suitable for 3.2.5?
+
+I think so.
+
+what OSes have you tried it on? I'm slightly worried about portability (although
+the eval {} scope should help there).
+
+------- You are receiving this mail because: -------
+You are the assignee for the bug, or are watching the assignee.

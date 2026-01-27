@@ -1,0 +1,15 @@
+Subject: support for Adaptex 1542B/C
+
+Howdy netters,
+does anyone know if the Plan 9 kernel for PC hardware supports
+the Adaptex 1542B/C SCSI controlleres?
+If no, has anyone written a driver ?
+
+Thanks Thomas
+**********************************************************************
+ Thomas Nau 
+ ([EMAIL], [EMAIL])
+ Departement of Anaesthesia, University of Ulm, Germany
+
+ think about 42 and DONT PANIC
+**********************************************************************

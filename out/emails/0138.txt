@@ -1,0 +1,32 @@
+Subject: Re: exclude hosts from reverse DNS checks
+
+Geert Hendrickx wrote:
+> On Sat, Feb 09, 2008 at 12:09:17PM +0100, mouss wrote:
+> 
+>> do you mean something like
+>> check_client_access pcre:/etc/postfix/clt
+>>
+>> == clt:
+>> /^unknown$/ do_foo
+>> /./ do_bar
+>>
+>> ?
+>> 
+>
+>
+> This is not related to the original question, but is it possible to match
+> "anything else" (like you do with /./ in this pcre map) in bdb hash maps?
+> 
+
+no, but you can achieve that by using restriction classes.
+
+If the check you run is at the end of a restriction "set", and is simple 
+enough (no map lookup in particular), you can simply order the checks 
+such as in
+ # checks for some clients
+ check_client_access hash:/etc/postfix/foo_access
+ ... [checks for other clients]
+
+== foo_access:
+unknown do_this, do_that, permit
+.

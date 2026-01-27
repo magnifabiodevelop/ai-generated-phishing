@@ -11,10 +11,8 @@ The project investigates—through a reproducible experimental pipeline—the di
 
 - Build two comparable datasets:
   - **Dataset A (manual):** emails from public repositories and open datasets (often CSV format).
-  - **Dataset B (AI-generated):** emails generated with LLMs in an **ethical and controlled** way.
+  - **Dataset B (AI-generated):** emails generated with LLMs in an **ethical and controlled** way and from public repositories.
 - Analyze differences between A and B using linguistic/statistical features (e.g., TF-IDF, length, punctuation, readability, lexical similarity).
-- Train and evaluate classification models (e.g., Logistic Regression, Random Forest, Transformers such as DistilBERT/BERT).
-- Apply interpretability techniques (e.g., SHAP/LIME) to highlight factors driving model decisions.
 - Produce reproducible outputs (scripts, reports, charts, notebooks) and discuss limitations/validity.
 
 ---
@@ -23,23 +21,23 @@ The project investigates—through a reproducible experimental pipeline—the di
 
 Typical structure (may vary across revisions):
 
-- `docs/`  
-  Supporting material (notes, references, non-sensitive excerpts).
+- `analysis/`
+  - taxonomic analysis reports
+- `out/`
+  - email in txt format, normalized and sanitized
+- `patterns/`
+  - yaml file with keywords for taxononic analysis
+- `raw/`
+  - csv file with public emails
+- `reports/`
+  - folder with csv reports file      
 - `scripts/`  
   Scripts for:
   - extracting and normalizing public datasets (CSV → individual emails / unified format),
   - controlled AI email generation (ethical prompts, sanitization),
-  - preprocessing and feature engineering,
-  - training and model evaluation,
-  - final report generation (CSV/JSON).
-- `notebooks/`  
-  Exploratory analysis, charts, statistical comparisons, experiments.
-- `data/` *(optional and subject to restrictions)*  
-  Sanitized examples or placeholders; full datasets may be excluded for ethical/licensing reasons.
-- `results/`  
-  Experiment outputs (metrics, confusion matrices, charts, final reports).
+  - pattern analysis
+  - LLM judment
 
----
 
 ## Safety, ethics, and responsible use
 
@@ -73,16 +71,14 @@ This repository is **not meant** to facilitate real-world phishing. In particula
 
 1. **Environment setup**  
    - Python 3.x  
-   - Dependencies in `requirements.txt` (or `pyproject.toml` if present)
-2. **Dataset A extraction/normalization**  
+2. **extraction/normalization and controlled generation for Dataset A and B**  
    - CSV parsing scripts and conversion into a unified format
-3. **Controlled generation of Dataset B**  
    - Ethical prompts + automatic sanitization
-4. **Preprocessing and feature engineering**
-5. **Training & evaluation**
-6. **Final reports and charts**
+4. **Analysis processing**
+5. **AI-as-a-Judge**
 
-Exact commands are documented within `scripts/` and/or the notebooks.
+
+Exact commands are documented within `scripts/` 
 
 ---
 

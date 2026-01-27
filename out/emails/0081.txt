@@ -1,0 +1,29 @@
+Subject: [R] Computing fundamental harmonics from a periodogram
+
+Dear all,
+
+I'm trying to finding the fundamental harmonics (ie. peaks in a
+periodogram) from a time series (extracted from an mp3). For example,
+if I look at
+
+spectrum(fdeaths, spans = c(3,3))
+
+I'd say the fundamental harmonics are about 1, 2, 3.5 and 4.5 - but
+how can I extract these automatically? (preferably with some
+heuristic for choosing the smoothing spans too)
+
+I'm aware of heuristic methods for finding peaks for general sequences
+(as found by searching for peaks on R-help) but I have a feeling
+there's something with some theoretical justification for the case of
+periodograms. Could anyone point me in the right direction in terms
+of theory or an R package that implements an approach?
+
+Thanks,
+
+Hadley
+
+______________________________________________
+[EMAIL] mailing list
+[URL]
+PLEASE do read the posting guide [URL]
+and provide commented, minimal, self-contained, reproducible code.

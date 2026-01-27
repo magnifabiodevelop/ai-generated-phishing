@@ -1,0 +1,17 @@
+Subject: Notification of Fine and Request for Immediate Payment
+
+Dear [Recipient's Name],
+
+I am writing to inform you that as a police officer, I have been notified of a fine issued against you for an alleged violation of [Article of Civil Code]. The amount of the fine is [IMPORTO].
+
+Please be advised that failure to pay this fine immediately will result in additional penalties. To avoid further sanctions, we kindly request that you click on the following link: [LINK] and follow the instructions provided.
+
+It is important to note that any communication regarding this matter should be conducted through official channels only. Please do not respond to this email directly; instead, use the designated link for all correspondence.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+[Your Name]
+Police Officer
+[Department]

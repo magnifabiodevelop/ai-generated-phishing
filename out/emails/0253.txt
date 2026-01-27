@@ -1,0 +1,22 @@
+Subject: [R] When to use quasipoisson instead of poisson family
+
+It seems that MASS suggest to judge on the basis of
+sum(residuals(mode,type="pearson"))/df.residual(mode). My question: Is
+there any rule of thumb of the cutpoiont value?
+
+The paper "On the Use of Corrections for Overdispersion" suggests
+overdispersion exists if the deviance is at least twice the number of
+degrees of freedom.
+
+Are there any further hints? Thanks.
+
+-- 
+Ronggui Huang
+Department of Sociology
+Fudan University, Shanghai, China
+
+______________________________________________
+[EMAIL] mailing list
+[URL]
+PLEASE do read the posting guide [URL]
+and provide commented, minimal, self-contained, reproducible code.

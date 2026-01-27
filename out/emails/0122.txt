@@ -1,0 +1,29 @@
+Subject: Re: [opensuse] After SLES10 SP1 Update
+
+On Sat, Feb 09, 2008 at 09:18:34PM -0500, Chris Arnold wrote:
+> Chris Arnold wrote:
+> >I know this might be the wrong place to ask this but i am hoping that 
+> >someone else is using SLES10 and did an update today.....
+> >I have been updating php code all day today using gedit. This morning 
+> >i did an update from ZMD and among other thing that were updated was 
+> >readline. When i was finished updating code, i closed gedit....Then 
+> >remembered i had to change something else before i called it quits. 
+> >Much to my surprise, the file was all but black. Along with other 
+> >files, blank. The reason i think it had something to do with the 
+> >update or gedit, is b/c i tar'ed the folder up and copied it to my 
+> >windoze box and said files have all the code in them???? I also opened 
+> >the files in vim and they exhibited the same as gedit, some blank and 
+> >some all but blank. I also restarted the server, same thing. Anybody 
+> >else seen this?
+> OK, i tried joe, which is a vim like text editor and the files appear as 
+> they are suppose to (they are not blank or missing code). It has 
+> something to do with the way gedit parses the php files. HTML files are 
+> fine.
+
+It sounds a bit like you enabled syntax highlighting in gedit and the
+highliughter made it all blank.
+
+Ciao, Marcus
+-- 
+To unsubscribe, e-mail: assipqff+[EMAIL]
+For additional commands, e-mail: qybuovjs+[EMAIL]

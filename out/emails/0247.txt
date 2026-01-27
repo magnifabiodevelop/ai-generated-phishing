@@ -1,0 +1,33 @@
+Subject: Re: [opensuse] Beagle waste
+
+Carl Spitzer wrote:
+> Seems in addition to wasting CPU resources its a drive hog.
+> So I put in a warning line in dot bashrc
+> 
+> du ./.beagle/ -ch | tail
+> 
+> so each time i open a konsole I get a read on how much waste.
+> 
+> Perhaps if it were redeveloped not as a daeman but as a stand alone we
+> could control with cron it would be more useful.
+> 
+
+ This is absolutely ridiculous. That's nearly 20% of the / partition 
+wasted on the dreaded_dog.
+
+835M ./.beagle/
+835M total
+23:11 Rankin-P35a~>
+
+ This will fix it
+
+sudo rpm -e $(rpm -qa | grep beagle) kerry && rm -r ~/.beagle
+
+-- 
+David C. Rankin, J.D., P.E.
+Rankin Law Firm, PLLC
+510 Ochiltree Street
+Nacogdoches, Texas [PHONE]
+Telephone: (936) 715-9333
+Facsimile: (936) 715-9339
+[URL]

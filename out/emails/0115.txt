@@ -1,0 +1,79 @@
+Subject: [Spambayes-checkins] spambayes/scripts core_server.py, 1.1.2.2, 1.1.2.3
+
+Update of /cvsroot/spambayes/spambayes/scripts
+In directory sc8-pr-cvs8.sourceforge.net:/tmp/cvs-serv17145/scripts
+
+Modified Files:
+ Tag: CORESVR
+ core_server.py 
+Log Message:
+A start on allowing plugin configuration. This revealed a chicken-and-egg
+situation. You can't load the plugin before you know what it is. (I
+suppose it really belongs in the basic configuration.) For the time being
+fall back to requiring it on the command line.
+
+Index: core_server.py
+===================================================================
+RCS file: /cvsroot/spambayes/spambayes/scripts/Attic/core_server.py,v
+retrieving revision 1.1.2.2
+retrieving revision 1.1.2.3
+diff -C2 -d -r1.1.2.2 -r1.1.2.3
+*** core_server.py 23 May 2007 02:18:00 -0000 1.1.2.2
+--- core_server.py 24 May 2007 03:19:34 -0000 1.1.2.3
+***************
+*** 19,22 ****
+--- 19,24 ----
+ options:
+ -h : Displays this help message.
++ -m module :
++ Identify plugin module to use (required)
+ -d FILE : use the named DBM database file
+ -p FILE : the the named Pickle database file
+***************
+*** 144,149 ****
+ """Runs the core server forever or until a 'KILL' command is received or
+ someone hits Ctrl+Break."""
+- state.plugin = load_plugin(options["Plugin", "x-module"])
+- print ">>", state.plugin
+ http_server = UserInterfaceServer(state.ui_port)
+ http_server.register(CoreUserInterface(state))
+--- 146,149 ----
+***************
+*** 157,161 ****
+ # Read the arguments.
+ try:
+! opts, args = getopt.getopt(sys.argv[1:], 'hbd:p:l:u:o:')
+ except getopt.error, msg:
+ print >> sys.stderr, str(msg) + '\\n\\n' + __doc__
+--- 157,161 ----
+ # Read the arguments.
+ try:
+! opts, args = getopt.getopt(sys.argv[1:], 'hbd:p:l:u:o:m:')
+ except getopt.error, msg:
+ print >> sys.stderr, str(msg) + '\\n\\n' + __doc__
+***************
+*** 163,166 ****
+--- 163,167 ----
+ 
+ state = CoreState()
++ state.plugin = None
+ 
+ for opt, arg in opts:
+***************
+*** 178,181 ****
+--- 179,188 ----
+ elif opt == '-o':
+ options.set_from_cmdline(arg, sys.stderr)
++ elif opt == '-m':
++ state.plugin = load_plugin(arg)
++ 
++ if state.plugin is None:
++ print >> sys.stderr, __doc__
++ sys.exit()
+ 
+ state.db_name, state.use_db = storage.database_type(opts)
+
+_______________________________________________
+Spambayes-checkins mailing list
+[EMAIL]
+[URL]

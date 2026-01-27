@@ -1,0 +1,24 @@
+Subject: Re: [opensuse] Intel 3945 Wireless Problem opensuse 10.3 - RESOLVED!
+
+Fred A. Miller wrote:
+> Here's something I just found and points to where the "real" problem
+> with hidden sites is, when for awhile I assumed it was
+> KNetworkmanager....so did others.
+>
+> For almost 2 weeks, I've been using the ipw3945 driver and the
+> standard ifup method to connect. I just changed from that driver to
+> the iwl3945 driver, stopped the ipw driver and used Yast to setup
+> using the iwl driver with KNetworkmanager.....just to see what
+> happend. I've NOT been able to see hidden sites, including my own at
+> home, with KNetworkmanager.......now I can.
+
+There's not much point in hiding the SSID, as it doesn't do much to stop
+attackers. It also means that a neighbour, looking for a clear spot to
+put his WiFi, might chose the same channel as yours. The best way to
+get WiFi security, is to use WPA (WPA2 if possible), which is very
+secure. WEP is not. I've also got my home WiFi (WPA2) on the outside
+of my firewall, so SSH, with public key authentication or OpenVPN are
+required to reach my network.
+
+-- 
+Use OpenOffice.org

@@ -1,0 +1,16 @@
+Subject: Re: score
+
+Can you point me to a good regex tutorial? The one I have found has 
+given me a lot of good starting stuff, but it doesn't mention the ?:, 
+and I'd like to learn more.
+--Thanks.
+
+Matt Kettler wrote:
+> The regex for the rule is:
+> /\\bfree (?:porn|xxx|adult)/i
+
+-- 
+Paul Douglas Franklin
+Computer Manager, Union Gospel Mission of Yakima, Washington
+Husband of Danette
+Father of Laurene, Miriam, Tycko, Timothy, Sarabeth, Marie, Dawnita, Anna Leah, Alexander, and Caleb

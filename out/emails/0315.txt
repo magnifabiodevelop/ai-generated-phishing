@@ -1,0 +1,29 @@
+Subject: Re: score
+
+On Fri, 2008-02-08 at 11:03 -0800, Paul Douglas Franklin of Yakima UGM
+wrote:
+> Can you point me to a good regex tutorial?
+
+Have you tried `perldoc perlretut` ?
+
+> The one I have found has 
+> given me a lot of good starting stuff, but it doesn't mention the ?:, 
+> and I'd like to learn more.
+from perlretut...
+
+ Non-capturing groupings
+
+ We noted in Part 1 that groupings "()" had two distinct
+functions: 1) group regexp elements together as a single unit, and 2)
+ extract, or capture, substrings that matched the regexp in the
+grouping. Non-capturing groupings, denoted by "(?:regexp)", allow
+ the regexp to be treated as a single unit, but don't extract
+substrings or set matching variables [AMOUNT] etc. Both capturing and
+ non-capturing groupings are allowed to co-exist in the same
+regexp. Because there is no extraction, non-capturing groupings are
+ faster than capturing groupings....
+
+-- 
+Daniel J McDonald, CCIE #2495, CISSP #[PHONE], CNX
+Austin Energy
+[URL]

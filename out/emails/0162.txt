@@ -1,0 +1,8 @@
+Subject: Re: terminal and telnet
+
+[EMAIL] (Ishwar Rattan) writes:
+| 1. After telnet into UNIX box (SunOS) how does one define the
+| terminal type to do any work on the Sun?
+
+>From a normal 9term, "dumb" is about right. If you start a /bin/hp
+window on plan 9, that corresponds to "2621" in termcap.

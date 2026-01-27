@@ -1,0 +1,21 @@
+Subject: Important Update on Your Order [ORDER_ID]
+
+Dear [CUSTOMER_NAME],
+
+We hope this message finds you well.
+
+We are writing to inform you about a temporary issue affecting the delivery of your order [ORDER_ID]. Unfortunately, there has been an unexpected delay in processing your shipment due to unforeseen circumstances. We sincerely apologize for any inconvenience this may cause.
+
+Our team is working diligently to resolve this matter as quickly as possible. Based on our current estimates, we anticipate that your order will be delivered by [NEW_DELIVERY_DATE]. However, if you prefer an alternative solution, please consider the following options:
+
+1. **New Delivery Date**: We can reschedule your delivery for a later date.
+2. **Change Address**: You can update your delivery address through our support portal at [SUPPORT_PORTAL_LINK].
+3. **Refund/Replacement**: If you would like to cancel this order and receive a refund or replacement, please let us know.
+
+To proceed with any of these options, please visit our support portal at [SUPPORT_PORTAL_LINK] and use your case ID [CASE_ID]. Alternatively, you can contact our customer support team at [PHONE_PLACEHOLDER].
+
+Thank you for your understanding and patience. We value your business and appreciate your cooperation during this time.
+
+Best regards,
+
+[COMPANY] Customer Support Team

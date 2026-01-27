@@ -1,0 +1,140 @@
+Subject: RE: [ie-rant] Re: hp pavilion issues
+
+Does your network card show up as an unknown device or is there any
+reference in the Device Manager. Have you checked the bios, to make sure
+its enabled and not turned off?
+ 
+g
+
+________________________________
+
+ From: [EMAIL] [mailto:[EMAIL]]
+On Behalf Of Richard Fortune
+ Sent: 03 October 2007 14:43
+ To: [EMAIL]
+ Subject: [ie-rant] Re: hp pavilion issues
+ 
+ 
+
+ My head is officially melted - situations like this make me hate
+not only computers but the fuckers who work with them, every person who
+uses them sucessfully and pretty much anyone else on the planet. aaargh
+ 
+ here is my machine specs:
+[URL]
+n&dlc=en&product=[PHONE]&dlc=en⟨=en
+ 
+ 
+ I've installed the chipset software from Nvidia for my
+motherboard hoping that this would fix the issue. 
+ I've installed realtek drivers to specifically try fix the
+networking issue. Once they install I see no change on my device
+management setup. no new network cards listed, just the standard
+ieee1394 controller. 
+ 
+ My Other Pci Bridge Device and SM Bus Controller are still being
+listed as other devices..
+ 
+ I'm going round in circles here and am at odds with reinstalling
+vista just because I can't find the right driver. 
+ 
+ Vista is pretty, but clunky and a resource eating beast. I've
+already forked out on extra RAM and at 2gb I've hit capacity for my
+machine. (Thats not including the capacity I've added through ready
+boost) 
+ 
+ I want XP (I never thought I'd hear myself say that)!
+ 
+ plus this stupid fucking italian keyboard is making everything
+all the more infuriating...whats the point in me meditating when
+technology is lurking round every corne to thwart my good will. 
+ 
+ 
+ cheers,
+ 
+ Richard
+ 
+ * I officially hate HP, realtek, Windows and every other fucking
+site I've been to today that has failed to help me resolve this
+issue.
+ 
+ 
+ On 10/3/07, francois > wrote: 
+
+ 32 or 64 bit?
+ Unfortunately there are no XP drivers available on the
+site, I had a 
+ similar problem last week
+ You may need to run a hardware detection tool
+ The NICs in HP's are usually intel pro 100\\1000
+ 
+ The SM Bus controller is an intel device, you will need
+to d'load and
+ run this tool to find the driver.... 
+ [URL]
+ 
+ 
+ Worse comes to worse, reload vista and take note of the
+hardware in
+ device manager, it is way more detailed than XP, wipe
+and start again 
+ 
+ 
+ 
+ 
+ --- In [EMAIL]
+ , "Richard Fortune"
+ wrote:
+ >
+ > Hi all you techies out there in ierant land. 
+ > I recently formatted my hp pavillion(s7720.uk) in
+order to reinstall
+ xp on
+ > it. (Vista was driving me round the bend).
+ > I'm not sure my machine was intended to run anything
+other than 
+ vista. Now
+ > that I've installed xp on it I am missing certain
+drivers. \\most
+ importantly
+ > \\i cannot connect it to the internet which means I
+cannot easily
+ search for
+ > drivers.
+ >
+ > at present I'm missing drivers for -
+ > Other PCI Bridge Device
+ > PCI Device
+ > SM Bus Controller
+ > Video Controller
+ >
+ > What I'm hoping for is that one of you is a hp expert
+and could help 
+ me sort
+ > this out. I'm used to Dell machines so this is proving
+to be a royal
+ pain in
+ > the $%^ at the moment. To top it off the only other
+machine in the
+ house is
+ > my italian flatmates spyware ridden piece of shit,
+wich means saving 
+ my own
+ > machine is further complicated.
+ >
+ > all help appreciated!
+ > - Richard
+ >
+ > --
+ > I'm on the rocky road,
+ > Heading down off the mountain slope,
+ > And as my steps echo (echo) louder than before 
+ >
+ 
+ 
+ 
+
+ -- 
+ I'm on the rocky road, 
+ Heading down off the mountain slope,
+ And as my steps echo (echo) louder than before
