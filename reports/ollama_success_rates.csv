@@ -1,7 +1,7 @@
 group,total,correct,accuracy_pct
-phishing,300,40,13.33
-non-phishing,300,296,98.67
-ai,100,33,33.00
+phishing,300,177,59.00
+non-phishing,300,295,98.33
+ai,100,11,11.00
 manuale,0,0,0.00
-phishing ai,50,0,0.00
+phishing ai,50,8,16.00
 phishing manuale,0,0,0.00
